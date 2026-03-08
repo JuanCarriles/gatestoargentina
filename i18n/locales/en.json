@@ -1,0 +1,284 @@
+{
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Gates to Argentina",
+    "subtitle": "Personalized Tourism Services",
+    "text": "Custom designed experiences. We create exclusive and group trips so you can discover the authentic essence of Argentina.",
+    "cta": "Plan Your Trip"
+  },
+  "modules": {
+    "title": "Our Travel Perls",
+    "subtitle": "Carefully designed experiences for personalized groups.",
+    "cta": "View Details",
+    "days": "Days",
+    "people": "Travelers",
+    "inquireNow": "Inquire About This Module",
+    "downloadItinerary": "Download Full Itinerary",
+    "mainAttractions": "Main Attractions",
+    "dailyItinerary": "Day-by-Day Itinerary",
+    "travelLocations": "Destinations Included",
+    "tripOverview": "Trip Overview",
+    "whatsIncluded": "What's Included",
+    "readyToExperience": "Ready to experience this?",
+    "customizeTrip": "Contact us and we'll customize your group trip",
+    "loading": "Loading...",
+    "backToHome": "Home",
+    "notFound": "Module not found",
+    "noItineraryMessage": "If you would like the full itinerary, please contact our team and we will send you a personalized one.",
+    "customizableTitle": "Fully Customizable Experience",
+    "customizableMessage": "This itinerary is a suggested experience. We can coordinate with you to modify the trip according to your needs and desires. We can offer additional services, duration adjustments, or different hotel categories.",
+    "contactViaGmail": "Email",
+    "contactViaWhatsApp": "WhatsApp",
+    "contactViaGroupMe": "GroupMe"
+  },
+  "attractionTypes": {
+    "natural": "Natural",
+    "cultural": "Cultural",
+    "adventure": "Adventure"
+  },
+  "attractions": {
+    "noa": {
+      "humahuaca": {
+        "name": "Quebrada de Humahuaca",
+        "description": "UNESCO World Heritage valley with stunning mountain formations"
+      },
+      "colorMountain": {
+        "name": "Seven Colors Mountain",
+        "description": "Iconic multicolored mountain in Purmamarca"
+      },
+      "salinas": {
+        "name": "Salinas Grandes",
+        "description": "Vast white salt flats at 12,000 feet altitude"
+      },
+      "wineries": {
+        "name": "Cafayate Wine Region",
+        "description": "High-altitude vineyards producing world-class Torrontés"
+      }
+    },
+    "ba": {
+      "obelisco": {
+        "name": "Obelisco & 9 de Julio Avenue",
+        "description": "Iconic monument on the world's widest avenue"
+      },
+      "tango": {
+        "name": "Tango Show Experience",
+        "description": "Authentic tango performances in historic venues"
+      },
+      "caminito": {
+        "name": "Caminito Street",
+        "description": "Colorful street museum in La Boca neighborhood"
+      },
+      "recoleta": {
+        "name": "Recoleta Cemetery",
+        "description": "Historic cemetery with stunning architecture and Eva Perón's tomb"
+      },
+      "palermo": {
+        "name": "Palermo Parks & Cuisine",
+        "description": "Trendy neighborhood with parks, boutiques, and restaurants"
+      }
+    },
+    "patagonia": {
+      "perito": {
+        "name": "Perito Moreno Glacier",
+        "description": "Massive advancing glacier in Los Glaciares National Park"
+      },
+      "fitz": {
+        "name": "Mount Fitz Roy",
+        "description": "Iconic jagged peak and trekking paradise in El Chaltén"
+      },
+      "beagle": {
+        "name": "Beagle Channel",
+        "description": "Historic strait with sea lion colonies and penguin islands"
+      },
+      "tierra": {
+        "name": "Tierra del Fuego National Park",
+        "description": "Pristine forests at the end of the world"
+      },
+      "nahuel": {
+        "name": "Nahuel Huapi Lake",
+        "description": "Crystal-clear alpine lake surrounded by snow-capped peaks"
+      }
+    }
+  },
+  "itinerary": {
+    "noa": {
+      "day1": {
+        "title": "Arrival in Salta",
+        "description": "Arrive in Salta, transfer to hotel. Evening orientation and welcome dinner featuring regional cuisine."
+      },
+      "day2": {
+        "title": "Salta City Tour",
+        "description": "Explore colonial architecture, historic plazas, and local markets. Visit San Francisco Church and MAAM museum."
+      },
+      "day3": {
+        "title": "Cafayate & Wine Route",
+        "description": "Journey through Quebrada de las Conchas. Wine tasting at high-altitude vineyards in Cafayate."
+      },
+      "day4": {
+        "title": "Cachi & Los Cardones",
+        "description": "Drive through Cuesta del Obispo and Los Cardones National Park. Visit the charming town of Cachi."
+      },
+      "day5": {
+        "title": "Purmamarca & Seven Colors Mountain",
+        "description": "Travel to Jujuy. Visit the iconic Cerro de los Siete Colores and explore Purmamarca's artisan market."
+      },
+      "day6": {
+        "title": "Quebrada de Humahuaca",
+        "description": "Full day exploring UNESCO World Heritage valley. Visit Tilcara, Humahuaca, and indigenous communities."
+      },
+      "day7": {
+        "title": "Salinas Grandes",
+        "description": "Journey to the vast white salt flats. Photography opportunities and learn about salt extraction."
+      },
+      "day8": {
+        "title": "Departure",
+        "description": "Transfer to airport. Departure with unforgettable memories of Argentina's northwest."
+      }
+    },
+    "ba": {
+      "day1": {
+        "title": "Arrival & City Introduction",
+        "description": "Arrive in Buenos Aires, transfer to hotel in Recoleta. Evening orientation walk and dinner."
+      },
+      "day2": {
+        "title": "Historic Buenos Aires",
+        "description": "Guided tour of Plaza de Mayo, Casa Rosada, Metropolitan Cathedral. Afternoon in San Telmo's antique markets."
+      },
+      "day3": {
+        "title": "La Boca & Tango",
+        "description": "Morning visit to colorful Caminito. Afternoon tango lesson. Evening professional tango show with dinner."
+      },
+      "day4": {
+        "title": "Recoleta & Palermo",
+        "description": "Visit Recoleta Cemetery and cultural center. Explore Palermo's parks, boutiques, and trendy restaurants."
+      },
+      "day5": {
+        "title": "Departure",
+        "description": "Free morning for shopping or final explorations. Transfer to airport."
+      }
+    },
+    "patagonia": {
+      "day1": {
+        "title": "Arrival in El Calafate",
+        "description": "Arrive in El Calafate, gateway to the glaciers. Hotel check-in and orientation."
+      },
+      "day2": {
+        "title": "Perito Moreno Glacier",
+        "description": "Full day at Perito Moreno Glacier. Walking the viewing platforms and optional ice trekking."
+      },
+      "day3": {
+        "title": "Transfer to El Chaltén",
+        "description": "Scenic drive to El Chaltén. Afternoon short hike with views of Fitz Roy."
+      },
+      "day4": {
+        "title": "Fitz Roy Trek",
+        "description": "Full day trekking to Laguna de los Tres with stunning views of Mount Fitz Roy."
+      },
+      "day5": {
+        "title": "Fly to Ushuaia",
+        "description": "Morning flight to Ushuaia. Afternoon city tour of the world's southernmost city."
+      },
+      "day6": {
+        "title": "Tierra del Fuego National Park",
+        "description": "Explore Tierra del Fuego National Park by land and sea. End of the world train ride."
+      },
+      "day7": {
+        "title": "Beagle Channel Cruise",
+        "description": "Boat tour of Beagle Channel. Visit sea lion colonies and penguin islands."
+      },
+      "day8": {
+        "title": "Fly to Bariloche",
+        "description": "Flight to Bariloche. Check into hotel in this Swiss-style mountain town."
+      },
+      "day9": {
+        "title": "Circuito Chico",
+        "description": "Explore the small circuit around Nahuel Huapi Lake. Visit viewpoints, beaches, and chocolate shops."
+      },
+      "day10": {
+        "title": "Departure",
+        "description": "Free morning. Transfer to airport for departure."
+      }
+    }
+  },
+  "services": {
+    "title-section": "Services",
+    "title": "Premium Services",
+    "subtitle": "Personalized services crafted to match your unique travel style",
+    "concierge-services": "Personal concierge service",
+    "transfers": "Transfers",
+    "transfersDesc": "To and from the airport at all destinations",
+    "accommodation": "Accommodation",
+    "accommodationDesc": "Carefully selected lodging",
+    "guides": "Expert Guides",
+    "guidesDesc": "Specialized bilingual local guides",
+    "gastronomy": "Gastronomy",
+    "gastronomyDesc": "Authentic culinary experiences",
+    "support": "24/7 Support",
+    "supportDesc": "Constant support throughout your trip",
+    "insurance": "Travel Insurance",
+    "insuranceDesc": "Full coverage included"
+  },
+  "about": {
+    "title": "Born and raised in Argentina",
+    "description": "I am the founder of Gates to Argentina, a boutique agency born from a solid international background. For over 15 years, I led tour operations in the Middle East through Gates to Israel, managing more than 500 groups and perfecting the art of travel logistics. Our firm is distinguished by offering trilingual service (Spanish, English, and Hebrew) and 24/7 support, ensuring that every detail of your trip is covered. Although our original headquarters were in Israel, today we operate with offices in Tucumán, and Israel, building bridges between continents. My role has always been one of 'courage and logistics.' After returning to Argentina in 2023, I apply that same rigor and passion to designing personalized programs that combine adventure, culture, and comfort in one of South America's most fascinating countries.",
+    "list1": "Languages: Spanish, English, Hebrew",
+    "list2": "Experience: +15 Years in the tourism industry",
+    "list3": "Headquarters : Argentina, Israel",
+    "years": "Years of experience",
+    "groups": "Groups served",
+    "offices": "International offices"
+  },
+  "testimonials": {
+    "title": "What our travelers say",
+    "testimonial1": "An unforgettable experience. From Israel to the end of the world, everything perfectly organized.",
+    "author1": "Cohen Family, Tel Aviv",
+    "testimonial2": "The best trip of our lives. Patagonia is magical and the team made everything impeccable.",
+    "author2": "Jerusalem Group, Haifa",
+    "testimonial3": "Excellent service in Hebrew, we felt at home in Argentina.",
+    "author3": "Levy Family, Beer Sheva"
+  },
+  "socialMedia": {
+    "title": "Visit Us on Social Media",
+    "subtitle": "¡Follow us for exclusive tours, and unforgettable destinations!",
+    "facebookText": "Follow us on Facebook",
+    "instagramText": "Follow us on Instagram"
+  },
+  "contact": {
+    "section": "Contact",
+    "title": "Start Your Adventure",
+    "subtitle": "Contact us and let's design your dream trip together",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone (Optional)",
+    "destination": "Destination of interest (Optional)",
+    "message": "Message",
+    "send": "Send Inquiry",
+    "sending": "Sending...",
+    "success": "Thank you! We will contact you soon.",
+    "error": "Oops! Something went wrong. Please try again later.",
+    "retry": "Try Again",
+    "noDestination": "No destination selected",
+    "offices": {
+      "title": "Our contacts",
+      "argentina": "Argentina (Headquarters)",
+      "argentinaLocation": "Tucumán, Argentina",
+      "argentinaPhone": "+54 381 3598639",
+      "israel": "Israel",
+      "israelLocation": "Tel Aviv, Israel",
+      "israelPhone": "+972546787997"
+    }
+  },
+  "footer": {
+    "description": "Specializing in customized group programs with 24/7 bilingual support. We bring the warmth of Argentina to travelers.",
+    "quickLinks": "Quick Links",
+    "destinations": "Destinations",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "destinations": "Destinos",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Gates to Argentina",
+    "subtitle": "Servicios Turísticos Personalizados",
+    "text": "Experiencias diseñadas a medida. Creamos viajes exclusivos y grupales para que descubras la auténtica esencia de Argentina.",
+    "cta": "Planificá tu Viaje"
+  },
+  "modules": {
+    "title": "Nuestras perlas de Viaje",
+    "subtitle": "Experiencias cuidadosamente diseñadas para grupos personalizados.",
+    "cta": "Ver Detalles",
+    "days": "Días",
+    "people": "Viajeros",
+    "inquireNow": "Consultar por este Módulo",
+    "downloadItinerary": "Descargar Itinerario Completo",
+    "mainAttractions": "Principales Atracciones",
+    "dailyItinerary": "Itinerario Día a Día",
+    "travelLocations": "Destinos Incluidos",
+    "tripOverview": "Resumen del Viaje",
+    "whatsIncluded": "Qué Incluye",
+    "readyToExperience": "¿Listo para vivir esta experiencia?",
+    "customizeTrip": "Contáctanos y personalizaremos tu viaje grupal",
+    "loading": "Cargando...",
+    "backToHome": "Inicio",
+    "notFound": "Módulo no encontrado",
+    "noItineraryMessage": "Si deseas el itinerario completo, ponte en contacto con nuestro equipo y te enviaremos uno personalizado para ti.",
+    "customizableTitle": "Experiencia Totalmente Personalizable",
+    "customizableMessage": "Este itinerario es una experiencia sugerida. Podemos coordinar contigo para modificar el viaje según tus necesidades y deseos. Podemos ofrecer servicios adicionales, cambios de duración o diferentes categorías de hoteles.",
+    "contactViaGmail": "Email",
+    "contactViaWhatsApp": "WhatsApp",
+    "contactViaGroupMe": "GroupMe"
+  },
+  "attractionTypes": {
+    "natural": "Natural",
+    "cultural": "Cultural",
+    "adventure": "Aventura"
+  },
+  "attractions": {
+    "noa": {
+      "humahuaca": {
+        "name": "Quebrada de Humahuaca",
+        "description": "Valle Patrimonio de la Humanidad con formaciones montañosas impresionantes"
+      },
+      "colorMountain": {
+        "name": "Cerro de los Siete Colores",
+        "description": "Montaña icónica multicolor en Purmamarca"
+      },
+      "salinas": {
+        "name": "Salinas Grandes",
+        "description": "Extensas salinas blancas a 3.600 metros de altura"
+      },
+      "wineries": {
+        "name": "Región Vitivinícola de Cafayate",
+        "description": "Viñedos de altura produciendo Torrontés de clase mundial"
+      }
+    },
+    "ba": {
+      "obelisco": {
+        "name": "Obelisco y Av. 9 de Julio",
+        "description": "Monumento icónico en la avenida más ancha del mundo"
+      },
+      "tango": {
+        "name": "Experiencia de Show de Tango",
+        "description": "Presentaciones auténticas de tango en lugares históricos"
+      },
+      "caminito": {
+        "name": "Calle Caminito",
+        "description": "Museo de calle colorido en el barrio de La Boca"
+      },
+      "recoleta": {
+        "name": "Cementerio de la Recoleta",
+        "description": "Cementerio histórico con arquitectura impresionante y la tumba de Eva Perón"
+      },
+      "palermo": {
+        "name": "Parques y Gastronomía de Palermo",
+        "description": "Barrio trendy con parques, boutiques y restaurantes"
+      }
+    },
+    "patagonia": {
+      "perito": {
+        "name": "Glaciar Perito Moreno",
+        "description": "Glaciar masivo en avance en el Parque Nacional Los Glaciares"
+      },
+      "fitz": {
+        "name": "Monte Fitz Roy",
+        "description": "Pico icónico escarpado y paraíso del trekking en El Chaltén"
+      },
+      "beagle": {
+        "name": "Canal Beagle",
+        "description": "Estrecho histórico con colonias de lobos marinos e islas de pingüinos"
+      },
+      "tierra": {
+        "name": "Parque Nacional Tierra del Fuego",
+        "description": "Bosques prístinos en el fin del mundo"
+      },
+      "nahuel": {
+        "name": "Lago Nahuel Huapi",
+        "description": "Lago alpino cristalino rodeado de picos nevados"
+      }
+    }
+  },
+  "itinerary": {
+    "noa": {
+      "day1": {
+        "title": "Llegada a Salta",
+        "description": "Llegada a Salta, traslado al hotel. Orientación vespertina y cena de bienvenida con gastronomía regional."
+      },
+      "day2": {
+        "title": "Tour Ciudad de Salta",
+        "description": "Explorá arquitectura colonial, plazas históricas y mercados locales. Visitá la Iglesia San Francisco y museo MAAM."
+      },
+      "day3": {
+        "title": "Cafayate y Ruta del Vino",
+        "description": "Viaje por la Quebrada de las Conchas. Degustación de vinos en viñedos de altura en Cafayate."
+      },
+      "day4": {
+        "title": "Cachi y Los Cardones",
+        "description": "Recorrido por la Cuesta del Obispo y Parque Nacional Los Cardones. Visita al encantador pueblo de Cachi."
+      },
+      "day5": {
+        "title": "Purmamarca y Cerro de los Siete Colores",
+        "description": "Viaje a Jujuy. Visitá el icónico Cerro de los Siete Colores y explorá el mercado artesanal de Purmamarca."
+      },
+      "day6": {
+        "title": "Quebrada de Humahuaca",
+        "description": "Día completo explorando el valle Patrimonio de la Humanidad. Visitá Tilcara, Humahuaca y comunidades indígenas."
+      },
+      "day7": {
+        "title": "Salinas Grandes",
+        "description": "Viaje a las extensas salinas blancas. Oportunidades fotográficas y aprendé sobre extracción de sal."
+      },
+      "day8": {
+        "title": "Partida",
+        "description": "Traslado al aeropuerto. Partida con recuerdos inolvidables del noroeste argentino."
+      }
+    },
+    "ba": {
+      "day1": {
+        "title": "Llegada e Introducción a la Ciudad",
+        "description": "Llegada a Buenos Aires, traslado al hotel en Recoleta. Caminata de orientación vespertina y cena."
+      },
+      "day2": {
+        "title": "Buenos Aires Histórico",
+        "description": "Tour guiado por Plaza de Mayo, Casa Rosada, Catedral Metropolitana. Tarde en los mercados de antigüedades de San Telmo."
+      },
+      "day3": {
+        "title": "La Boca y Tango",
+        "description": "Visita matutina al colorido Caminito. Clase de tango por la tarde. Show profesional de tango con cena por la noche."
+      },
+      "day4": {
+        "title": "Recoleta y Palermo",
+        "description": "Visitá el Cementerio de la Recoleta y centro cultural. Explorá parques, boutiques y restaurantes trendy de Palermo."
+      },
+      "day5": {
+        "title": "Partida",
+        "description": "Mañana libre para compras o exploraciones finales. Traslado al aeropuerto."
+      }
+    },
+    "patagonia": {
+      "day1": {
+        "title": "Llegada a El Calafate",
+        "description": "Llegada a El Calafate, puerta de entrada a los glaciares. Check-in en hotel y orientación."
+      },
+      "day2": {
+        "title": "Glaciar Perito Moreno",
+        "description": "Día completo en el Glaciar Perito Moreno. Caminata por pasarelas y trekking sobre hielo opcional."
+      },
+      "day3": {
+        "title": "Traslado a El Chaltén",
+        "description": "Recorrido escénico a El Chaltén. Caminata corta por la tarde con vistas del Fitz Roy."
+      },
+      "day4": {
+        "title": "Trekking Fitz Roy",
+        "description": "Día completo de trekking a Laguna de los Tres con vistas impresionantes del Monte Fitz Roy."
+      },
+      "day5": {
+        "title": "Vuelo a Ushuaia",
+        "description": "Vuelo matutino a Ushuaia. Tour por la tarde de la ciudad más austral del mundo."
+      },
+      "day6": {
+        "title": "Parque Nacional Tierra del Fuego",
+        "description": "Explorá el Parque Nacional Tierra del Fuego por tierra y mar. Paseo en el tren del fin del mundo."
+      },
+      "day7": {
+        "title": "Crucero Canal Beagle",
+        "description": "Tour en barco por el Canal Beagle. Visitá colonias de lobos marinos e islas de pingüinos."
+      },
+      "day8": {
+        "title": "Vuelo a Bariloche",
+        "description": "Vuelo a Bariloche. Check-in en hotel en esta ciudad de estilo suizo."
+      },
+      "day9": {
+        "title": "Circuito Chico",
+        "description": "Explorá el circuito pequeño alrededor del Lago Nahuel Huapi. Visitá miradores, playas y chocolaterías."
+      },
+      "day10": {
+        "title": "Partida",
+        "description": "Mañana libre. Traslado al aeropuerto para la partida."
+      }
+    }
+  },
+  "services": {
+    "title-section": "Servicios Premium",
+    "subtitle": "Todo incluido para tu tranquilidad",
+    "concierge-services": "Servicio de asistencia personal",
+    "transfers": "Traslados",
+    "transfersDesc": "Desde y hacia el aeropuerto en todos los destinos",
+    "accommodation": "Alojamiento",
+    "accommodationDesc": "Alojamiento cuidadosamente seleccionado",
+    "guides": "Guías Expertos",
+    "guidesDesc": "Guías locales bilingües especializados",
+    "gastronomy": "Gastronomía",
+    "gastronomyDesc": "Experiencias culinarias auténticas",
+    "support": "Asistencia 24/7",
+    "supportDesc": "Soporte constante durante todo el viaje",
+    "insurance": "Seguro de Viaje",
+    "insuranceDesc": "Cobertura completa incluida"
+  },
+  "about": {
+    "title": "Nacida y criada en Argentina",
+    "description": "Soy la fundadora de Gates to Argentina, una agencia boutique nacida con una sólida trayectoria internacional. Durante más de 15 años, dirigí operaciones turísticas en Medio Oriente a través de Gates to Israel, gestionando más de 500 grupos y perfeccionando el arte de la logística de viajes. Nuestra firma se distingue por ofrecer servicio trilingüe (español, inglés y hebreo) y soporte 24 horas al día, 7 días a la semana, asegurando que cada detalle de su viaje esté cubierto. Aunque nuestra sede original estaba en Israel, hoy operamos con oficinas en Tucumán e Israel, tendiendo puentes entre continentes. Mi papel siempre ha sido el de 'valentía y logística'. Luego de regresar a Argentina en 2023, aplico ese mismo rigor y pasión para diseñar programas personalizados que combinan aventura, cultura y comodidad en uno de los países más fascinantes de Sudamérica.",
+    "list1": "Idiomas: Español, Inglés, Hebreo",
+    "list2": "Experiencia: +15 Años en la industria turística",
+    "list3": "Sedes : Argentina, Israel",
+    "years": "Años de experiencia",
+    "groups": "Grupos atendidos",
+    "offices": "Sedes internacionales"
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros viajeros",
+    "testimonial1": "Una experiencia inolvidable. Desde Israel hasta el fin del mundo, todo perfectamente organizado.",
+    "author1": "Familia Cohen, Tel Aviv",
+    "testimonial2": "El mejor viaje de nuestras vidas. Patagonia es mágica y el equipo hizo todo impecable.",
+    "author2": "Grupo Jerusalem, Haifa",
+    "testimonial3": "Excelente atención en hebreo, nos sentimos como en casa en Argentina.",
+    "author3": "Familia Levy, Beer Sheva"
+  },
+  "socialMedia": {
+    "title": "Visítanos en Nuestras Redes Sociales",
+    "subtitle": "¡Síguenos para tours exclusivos y destinos inolvidables!",
+    "facebookText": "Síguenos en Facebook",
+    "instagramText": "Síguenos en Instagram"
+  },
+  "contact": {
+    "section": "Contacto",
+    "title": "Empezá tu Aventura",
+    "subtitle": "Contactanos y diseñamos juntos tu viaje soñado",
+    "name": "Nombre completo",
+    "email": "Correo electrónico",
+    "phone": "Teléfono (Opcional)",
+    "destination": "Destino de interés (Opcional)",
+    "message": "Mensaje",
+    "send": "Enviar Consulta",
+    "sending": "Enviando...",
+    "success": "¡Gracias! Te contactaremos pronto.",
+    "error": "¡Ups! Algo salió mal. Por favor, intentá de nuevo más tarde.",
+    "retry": "Intentar de Nuevo",
+    "noDestination": "Sin destino seleccionado",
+    "offices": {
+      "title": "Nuestros contactos",
+      "argentina": "Argentina (Central)",
+      "argentinaLocation": "Tucumán, Argentina",
+      "argentinaPhone": "+54 381 3598639",
+      "israel": "Israel",
+      "israelLocation": "Tel Aviv, Israel",
+      "israelPhone": "+972546787997"
+    }
+  },
+  "footer": {
+    "description": "Especializados en programas grupales personalizados con soporte bilingüe 24/7. Llevamos la calidez de Argentina a los viajeros.",
+    "quickLinks": "Links Rápidos",
+    "destinations": "Destinos",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados."
+  }
+}

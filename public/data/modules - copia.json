@@ -1,0 +1,959 @@
+{
+    "modules": [
+        {
+            "id": "noa",
+            "name": {
+                "es": "Experiencia Noroeste Argentino",
+                "en": "Northwest Argentina Experience",
+                "he": "חוויית צפון מערב ארגנטינה"
+            },
+            "summary": {
+                "es": "Explorá las montañas de colores y la rica herencia cultural de Salta y Jujuy",
+                "en": "Explore the colorful mountains and rich cultural heritage of Salta and Jujuy",
+                "he": "גלה את ההרים הצבעוניים והמורשת התרבותית העשירה של סלטה וחוחוי"
+            },
+            "description": {
+                "es": "Sumergite en los paisajes impresionantes del noroeste argentino. Desde las montañas multicolores de Purmamarca hasta las extensas salinas blancas de Salinas Grandes, este viaje de 8 días te lleva a través de culturas indígenas ancestrales, ciudades coloniales y algunas de las maravillas naturales más impactantes de Sudamérica. Experimentá vinos de altura de clase mundial en Cafayate y caminá por sitios declarados Patrimonio de la Humanidad por UNESCO.",
+                "en": "Immerse yourself in the breathtaking landscapes of Argentina's northwest region. From the multicolored mountains of Purmamarca to the sprawling white salt flats of Salinas Grandes, this 8-day journey takes you through ancient indigenous cultures, colonial cities, and some of South America's most stunning natural wonders. Experience world-class high-altitude wines in Cafayate and walk through UNESCO World Heritage sites.",
+                "he": "השקע במראות העוצרים נשימה של אזור צפון מערב ארגנטינה. מההרים הרב-צבעוניים של פורממרקה ועד מישורי המלח הלבנים של סלינס גרנדס, מסע בן 8 ימים דרך תרבויות עתיקות, ערים קולוניאליות ופלאי טבע מדהימים."
+            },
+            "inquiryText": {
+                "es": "¡Hola! Me interesa conocer más sobre el módulo Experiencia Noroeste Argentino. ¿Podrían proporcionarme detalles adicionales sobre disponibilidad y precios?",
+                "en": "Hello! I'm interested in learning more about the Northwest Argentina Experience module. Could you provide additional details about availability and pricing?",
+                "he": "שלום! אני מעוניין לקבל מידע נוסף על מודול חוויית צפון מערב ארגנטינה. תוכלו לספק פרטים נוספים על זמינות ומחירים?"
+            },
+            "numberOfDays": 8,
+            "numberOfPeople": 20,
+            "tag": {
+                "es": "Noroeste Argentino",
+                "en": "Northwest Argentina",
+                "he": "צפון מערב ארגנטינה"
+            },
+            "coverImage": "/images/destino-noa2.jpg",
+            "locations": [
+                {
+                    "name": {
+                        "es": "Tucumán",
+                        "en": "Tucumán",
+                        "he": "טוקומן"
+                    },
+                    "type": "city",
+                    "image": "/images/tucuman.jpg"
+                },
+                {
+                    "name": {
+                        "es": "Salta",
+                        "en": "Salta",
+                        "he": "סלטה"
+                    },
+                    "type": "natural",
+                    "image": "/images/Salta.jpg"
+                },
+                {
+                    "name": {
+                        "es": "Jujuy",
+                        "en": "Jujuy",
+                        "he": "חוחוי"
+                    },
+                    "type": "natural",
+                    "image": "/images/Jujuy.jpg"
+                }
+            ],
+            "mainAttractions": [
+                {
+                    "id": "plazaYCasaGobierno",
+                    "name": {
+                        "es": "Plaza de la Independencia y Casa de Gobierno",
+                        "en": "Independence Square and Government House",
+                        "he": "כיכר העצמאות ובית הממשלה"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "El corazón de San Miguel de Tucumán, donde la plaza principal se enfrenta al Palacio de Gobierno",
+                        "en": "The heart of San Miguel de Tucumán, where the main square faces the Government Palace",
+                        "he": "לב סן מיגל דה טוקומן, שם הכיכר הראשית פונה לארמון הממשלה"
+                    },
+                    "image": "/images/Module-NOA/plaza-y-casa-gobierno.jpg"
+                },
+                {
+                    "id": "casaHistorica",
+                    "name": {
+                        "es": "Casa Histórica de Tucumán",
+                        "en": "Historic House of Tucumán",
+                        "he": "הבית ההיסטורי של טוקומן"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "El lugar histórico donde se firmó la Declaración de la Independencia Argentina en 1816",
+                        "en": "The historic site where the Argentine Declaration of Independence was signed in 1816",
+                        "he": "האתר ההיסטורי שבו נחתמה הכרזת העצמאות הארגנטינאית ב-1816"
+                    },
+                    "image": "/images/Module-NOA/casa-historica.jpg"
+                },
+                {
+                    "id": "ruinasQuilmes",
+                    "name": {
+                        "es": "Ruinas de Quilmes",
+                        "en": "Quilmes Ruins",
+                        "he": "חורבות קילמס"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Uno de los asentamientos precolombinos más importantes y extensos de Argentina",
+                        "en": "One of the most important and extensive pre-Columbian settlements in Argentina",
+                        "he": "אחד מהיישובים הפרה-קולומביאניים החשובים והנרחבים בארגנטינה"
+                    },
+                    "image": "/images/Module-NOA/quilmes.jpg"
+                },
+                {
+                    "id": "wineries",
+                    "name": {
+                        "es": "Bodegas de Cafayate",
+                        "en": "Cafayate Wineries",
+                        "he": "יקבי קאפאייטה"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Visita a viñedos famosos por sus vinos Torrontés y paisajes únicos de altura",
+                        "en": "Visit to vineyards famous for their Torrontés wines and unique high-altitude landscapes",
+                        "he": "ביקור בכרמים המפורסמים ביינות טורונטס ונופי גובה ייחודיים"
+                    },
+                    "image": "/images/Module-NOA/bodegas.jpg"
+                },
+                {
+                    "id": "quebradaConchas",
+                    "name": {
+                        "es": "Quebrada de las Conchas",
+                        "en": "Shell Quebrada",
+                        "he": "ערוץ הקונצ'ס"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Espectacular ruta escénica con cañones de roca roja y formaciones geológicas únicas",
+                        "en": "Spectacular scenic route with red rock canyons and unique geological formations",
+                        "he": "מסלול נופי מרהיב עם קניוני סלע אדום ותצורות גיאולוגיות ייחודיות"
+                    },
+                    "image": "/images/Module-NOA/conchas.jpg"
+                },
+                {
+                    "id": "tilcara",
+                    "name": {
+                        "es": "Tilcara y Pucará de Tilcara",
+                        "en": "Tilcara and Pucará de Tilcara",
+                        "he": "טילקרה ופוקארה דה טילקרה"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Explorá el Pucará de Tilcara, una antigua fortaleza preincaica, y recorré el vibrante pueblo situado en el corazón de la Quebrada",
+                        "en": "Explore the Pucará de Tilcara, an ancient pre-Inca fortress, and tour the vibrant town in the heart of the Quebrada",
+                        "he": "גלו את פוקארה דה טילקרה, מבצר קדום מתקופת טרום-האינקה, וסיירו בעיירה התוססת בלב הקברדה"
+                    },
+                    "image": "/images/Module-NOA/tilcara-pucara.jpg"
+                },
+                {
+                    "id": "humahuaca",
+                    "name": {
+                        "es": "Quebrada de Humahuaca",
+                        "en": "Humahuaca Quebrada",
+                        "he": "ערוץ הומאוואקה"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Patrimonio de la Humanidad con pueblos históricos, calles empedradas y cultura viva",
+                        "en": "World Heritage Site with historic villages, cobblestone streets and living culture",
+                        "he": "אתר מורשת עולמית עם כפרים היסטוריים, רחובות מרוצפי אבן ותרבות חיה"
+                    },
+                    "image": "/images/Module-NOA/humahuaca-center.jpg"
+                },
+                {
+                    "id": "colorMountain",
+                    "name": {
+                        "es": "Serranía del Hornocal (14 Colores)",
+                        "en": "Hornocal Mountain Range (14 Colors)",
+                        "he": "רכס הורנוקל (14 צבעים)"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Impresionante cadena montañosa de 14 colores ubicada a más de 4.300 metros de altura",
+                        "en": "Stunning 14-colored mountain range located at over 4,300 meters altitude",
+                        "he": "רכס הרים מדהים בעל 14 צבעים הממוקם בגובה של למעלה מ-4,300 מטרים"
+                    },
+                    "image": "/images/Module-NOA/hornocal.jpg"
+                },
+                {
+                    "id": "salinas",
+                    "name": {
+                        "es": "Salinas Grandes",
+                        "en": "Salinas Grandes",
+                        "he": "סלינס גרנדס"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Uno de los salares más grandes del mundo que ofrece un paisaje blanco deslumbrante",
+                        "en": "One of the world's largest salt flats offering a dazzling white landscape",
+                        "he": "אחד ממישורי המלח הגדולים בעולם המציע נוף לבן מסנוור"
+                    },
+                    "image": "/images/Module-NOA/salinas.jpg"
+                }
+            ],
+            "whatsIncluded": [
+                {
+                    "name": {
+                        "es": "Traslados privados y logística",
+                        "en": "Private transfers and logistics",
+                        "he": "העברות פרטיות ולוגיסטיקה"
+                    },
+                    "icon": "Car"
+                },
+                {
+                    "name": {
+                        "es": "Alojamiento en hoteles seleccionados",
+                        "en": "Accommodation in selected lodging",
+                        "he": "לינה במלונות נבחרים"
+                    },
+                    "icon": "Hotel"
+                },
+                {
+                    "name": {
+                        "es": "Guías profesionales y acompañamiento",
+                        "en": "Professional guides and accompaniment",
+                        "he": "מדריכים מקצועיים וליווי"
+                    },
+                    "icon": "User"
+                },
+                {
+                    "name": {
+                        "es": "Cena de bienvenida y comidas seleccionadas",
+                        "en": "Welcome dinner and selected meals",
+                        "he": "ארוחת ערב קבלת פנים וארוחות נבחרות"
+                    },
+                    "icon": "UtensilsCrossed"
+                },
+                {
+                    "name": {
+                        "es": "Excursiones y visitas guiadas",
+                        "en": "Excursions and guided tours",
+                        "he": "טיולים וסיורים מודרכים"
+                    },
+                    "icon": "Camera"
+                },
+                {
+                    "name": {
+                        "es": "Entradas a parques y museos",
+                        "en": "Entrance fees to parks and museums",
+                        "he": "כניסה לפארקים ומוזיאונים"
+                    },
+                    "icon": "Ticket"
+                }
+            ],
+            "itinerary": {
+                "pdfUrl": "/pdfs/Itinerary - North of Argentina.pdf",
+                "days": [
+                    {
+                        "day": 1,
+                        "title": {
+                            "es": "Llegada a Tucumán y Bienvenida",
+                            "en": "Arrival in Tucumán and Welcome",
+                            "he": "הגעה לטוקומן וקבלת פנים"
+                        },
+                        "description": {
+                            "es": "Recepción en el aeropuerto, traslado al hotel y cena de bienvenida para presentar el programa",
+                            "en": "Airport pickup, hotel transfer and welcome dinner to present the program",
+                            "he": "איסוף מהשדה התעופה, העברה למלון וארוחת ערב קבלת פנים להצגת התוכנית"
+                        }
+                    },
+                    {
+                        "day": 2,
+                        "title": {
+                            "es": "City Tour Histórico y San Javier",
+                            "en": "Historical City Tour and San Javier",
+                            "he": "סיור עירוני היסטורי וסן חווייר"
+                        },
+                        "description": {
+                            "es": "Visita a la Casa Histórica y Plaza Independencia, seguido de un recorrido por el Cerro San Javier",
+                            "en": "Visit to the Historic House and Independence Square, followed by a tour of San Javier Hill",
+                            "he": "ביקור בבית ההיסטורי וכיכר העצמאות, ולאחר מכן סיור בגבעת סן חווייר"
+                        }
+                    },
+                    {
+                        "day": 3,
+                        "title": {
+                            "es": "Valles Calchaquíes: Tafí y Amaicha",
+                            "en": "Calchaquí Valleys: Tafí and Amaicha",
+                            "he": "עמקי קאלצ'אקי: טאפי ואמאיצ'ה"
+                        },
+                        "description": {
+                            "es": "Viaje a través de los valles con paradas en Tafí del Valle y el Museo de la Pachamama en Amaicha",
+                            "en": "Journey through the valleys with stops in Tafí del Valle and the Pachamama Museum in Amaicha",
+                            "he": "מסע בעמקים עם עצירות בטאפי דל יילה ומוזיאון הפאצ'אמאמה באמאיצ'ה"
+                        }
+                    },
+                    {
+                        "day": 4,
+                        "title": {
+                            "es": "Ruinas de Quilmes y Vinos en Cafayate",
+                            "en": "Quilmes Ruins and Wines in Cafayate",
+                            "he": "חורבות קילמס ויינות בקאפאייטה"
+                        },
+                        "description": {
+                            "es": "Exploración de las Ruinas de Quilmes y visita a una bodega en Cafayate con almuerzo campestre. Seguido de una introducción guiada a la historia de Cafayate",
+                            "en": "Exploration of Quilmes Ruins and visit to a winery in Cafayate with countryside lunch. Followed by a guided introduction to Cafayate's history",
+                            "he": "חקר חורבות קילמס וביקור ביקב בקאפאייטה עם ארוחת צהריים כפרית. ולאחר מכן מבוא מודרך להיסטוריה של קאפאייטה"
+                        }
+                    },
+                    {
+                        "day": 5,
+                        "title": {
+                            "es": "Quebrada de las Conchas y llegada a Salta",
+                            "en": "Shell Quebrada and arrival in Salta",
+                            "he": "ערוץ הקונצ'ס והגעה לסלטה"
+                        },
+                        "description": {
+                            "es": "Recorrido por las formaciones rocosas de la Quebrada de las Conchas y llegada a la ciudad de Salta, conocida como 'La Linda'",
+                            "en": "Tour through the rock formations of the Shell Quebrada and arrival in Salta city, known as 'La Linda'",
+                            "he": "סיור בתצורות הסלע של ערוץ הקונצ'ס והגעה לעיר סלטה, המכונה 'לה לינדה'"
+                        }
+                    },
+                    {
+                        "day": 6,
+                        "title": {
+                            "es": "Hacia Jujuy: Purmamarca y Tilcara",
+                            "en": "To Jujuy: Purmamarca and Tilcara",
+                            "he": "לחוחוי: פורמאמרקה וטילקרה"
+                        },
+                        "description": {
+                            "es": "Visita al Cerro de los 7 Colores en Purmamarca y el Pucará de Tilcara rumbo al norte",
+                            "en": "Visit to the Hill of 7 Colors in Purmamarca and Pucará de Tilcara heading north",
+                            "he": "ביקור בגבעת 7 הצבעים בפורמאמרקה ובפוקארה דה טילקרה בדרך צפונה"
+                        }
+                    },
+                    {
+                        "day": 7,
+                        "title": {
+                            "es": "Serranía del Hornocal y Humahuaca",
+                            "en": "Hornocal Mountain Range and Humahuaca",
+                            "he": "רכס הורנוקל והומאוואקה"
+                        },
+                        "description": {
+                            "es": "Excursión al mirador del Hornocal (14 colores) y recorrido por el pueblo histórico de Humahuaca",
+                            "en": "Excursion to the Hornocal viewpoint (14 colors) and tour of the historic town of Humahuaca",
+                            "he": "טיול לנקודת התצפית של הורנוקל (14 צבעים) וסיור בעיירה ההיסטורית הומאוואקה"
+                        }
+                    },
+                    {
+                        "day": 8,
+                        "title": {
+                            "es": "Salinas Grandes y Retorno",
+                            "en": "Salinas Grandes and Return",
+                            "he": "סלינס גרנדס וחזרה"
+                        },
+                        "description": {
+                            "es": "Visita a las impresionantes Salinas Grandes, retorno a Jujuy y vuelo de regreso desde Tucumán",
+                            "en": "Visit to the impressive Salinas Grandes, return to Jujuy and flight back from Tucumán",
+                            "he": "ביקור בסלינס גרנדס המרשימה, חזרה לחוחוי וטיסה חזרה מטוקומן"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ba",
+            "name": {
+                "es": "Inmersión Cultural Buenos Aires",
+                "en": "Buenos Aires Cultural Immersion",
+                "he": "טבילה תרבותית בבואנוס איירס"
+            },
+            "summary": {
+                "es": "Descubrí la París de Sudamérica - tango, arquitectura y gastronomía. ",
+                "en": "Discover the Paris of South America - tango, architecture, and gastronomy. ",
+                "he": "גלה את פריז של דרום אמריקה - טנגו, ארכיטקטורה וגסטרונומיה"
+            },
+            "description": {
+                "es": "Experimentá la energía vibrante de Buenos Aires, una ciudad donde la elegancia europea se encuentra con la pasión latinoamericana. Esta inmersión cultural de 4 días te llevará por barrios históricos como San Telmo y La Boca, donde nació el tango. Disfrutá de carnes y vino Malbec de clase mundial, explorá la impresionante arquitectura de inspiración francesa en Recoleta, y viví la vida nocturna en el trendy Palermo. Este es el corazón cosmopolita de Argentina.",
+                "en": "Experience the vibrant energy of Buenos Aires, a city where European elegance meets Latin American passion. This 4-day cultural immersion will take you through historic neighborhoods like San Telmo and La Boca, where tango was born. Enjoy world-class steaks and Malbec wine, explore stunning French-inspired architecture in Recoleta, and experience the nightlife in trendy Palermo. This is Argentina's cosmopolitan heart.",
+                "he": "חוו את האנרגיה התוססת של בואנוס איירס, עיר שבה האלגנטיות האירופית פוגשת את התשוקה הלטינו-אמריקאית. טבילה תרבותית זו בת 4 ימים תיקח אתכם דרך שכונות היסטוריות כמו סן טלמו ולה בוקה, שם נולד הטנגו."
+            },
+            "inquiryText": {
+                "es": "¡Hola! Me gustaría saber más sobre el módulo Inmersión Cultural Buenos Aires. ¿Qué fechas están disponibles y qué incluye el paquete?",
+                "en": "Hello! I'd like to know more about the Buenos Aires Cultural Immersion module. What dates are available and what's included in the package?",
+                "he": "שלום! ארצה לדעת עוד על מודול הטבילה התרבותית בבואנוס איירס. אילו תאריכים זמינים ומה כלול בחבילה?"
+            },
+            "numberOfDays": 4,
+            "numberOfPeople": 20,
+            "tag": {
+                "es": "Buenos Aires",
+                "en": "Buenos Aires",
+                "he": "בואנוס איירס"
+            },
+            "coverImage": "/images/BA/buenos-aires-cover.jpg",
+            "locations": [
+                {
+                    "name": {
+                        "es": "Buenos Aires",
+                        "en": "Buenos Aires",
+                        "he": "בואנוס איירס"
+                    },
+                    "type": "city",
+                    "image": "/images/BA/ba-centro.jpg"
+                }
+            ],
+            "mainAttractions": [
+                {
+                    "id": "plazaMayo",
+                    "name": {
+                        "es": "Plaza de Mayo y Casa Rosada",
+                        "en": "Plaza de Mayo and Casa Rosada",
+                        "he": "פלאזה דה מאיו והבית הוורוד"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "El corazón simbólico de la historia argentina, rodeado por la Casa Rosada, el Cabildo y la Catedral Metropolitana",
+                        "en": "The symbolic heart of Argentine history, surrounded by the Casa Rosada, the Cabildo and the Metropolitan Cathedral",
+                        "he": "הלב הסמלי של ההיסטוריה הארגנטינאית, מוקף בבניין הנשיאות, הקבילדו והקתדרלה המטרופולינית"
+                    },
+                    "image": "/images/BA/plaza-mayo.jpg"
+                },
+                {
+                    "id": "teatroColon",
+                    "name": {
+                        "es": "Teatro Colón",
+                        "en": "Colón Theatre",
+                        "he": "תיאטרון קולון"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Visita guiada a uno de los teatros de ópera más espectaculares del mundo por su acústica y arquitectura",
+                        "en": "Guided tour of one of the world's most spectacular opera houses for its acoustics and architecture",
+                        "he": "סיור מודרך באחד מבתי האופרה המרהיבים בעולם בזכות האקוסטיקה והארכיטקטורה שלו"
+                    },
+                    "image": "/images/BA/teatro-colon.jpg"
+                },
+                {
+                    "id": "palacioBarolo",
+                    "name": {
+                        "es": "Palacio Barolo",
+                        "en": "Barolo Palace",
+                        "he": "ארמון בארולו"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Un edificio fascinante inspirado en la Divina Comedia de Dante, con vistas panorámicas de la ciudad",
+                        "en": "A fascinating building inspired by Dante's Divine Comedy, with panoramic views of the city",
+                        "he": "בניין מרתק בהשראת הקומדיה האלוהית של דנטה, עם נוף פנורמי של העיר"
+                    },
+                    "image": "/images/BA/barolo.jpg"
+                },
+                {
+                    "id": "caminito",
+                    "name": {
+                        "es": "Caminito y La Boca",
+                        "en": "Caminito and La Boca",
+                        "he": "קמיניטו ולה בוקה"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Museo a cielo abierto famoso por sus casas coloridas, puestos de artesanos y bailarines de tango en vivo",
+                        "en": "Open-air museum famous for its colorful houses, artisan stalls and live tango dancers",
+                        "he": "מוזיאון באוויר הפתוח המפורסם בבתים הצבעוניים שלו, דוכני אומנים ורקדני טנגו חיים"
+                    },
+                    "image": "/images/BA/caminito.jpg"
+                },
+                {
+                    "id": "laBombonera",
+                    "name": {
+                        "es": "Estadio La Bombonera",
+                        "en": "La Bombonera Stadium",
+                        "he": "אצטדיון לה בומבונרה"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "El mítico estadio de Boca Juniors, mundialmente famoso por su forma única y la pasión vibrante de su hinchada.",
+                        "en": "The mythical Boca Juniors stadium, world-famous for its unique shape and the vibrant passion of its fans.",
+                        "he": "האצטדיון המיתולוגי של בוקה ג'וניורס, מפורסם בעולם בצורתו הייחודית ובתשוקת האוהדים שלו."
+                    },
+                    "image": "/images/BA/bombonera.jpg"
+                },
+                {
+                    "id": "museoHistoricoNacional",
+                    "name": {
+                        "es": "Museo Histórico Nacional (Parque Lezama)",
+                        "en": "National Historical Museum (Parque Lezama)",
+                        "he": "המוזיאון ההיסטורי הלאומי (פארק לזמה)"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Ubicado en una mansión histórica, exhibe objetos clave de la Revolución de Mayo y la Guerra de la Independencia.",
+                        "en": "Located in a historic mansion, it exhibits key objects from the May Revolution and the War of Independence.",
+                        "he": "ממוקם באחוזה היסטורית, מציג חפצים מרכזיים ממהפכת מאי ומלחמת העצמאות."
+                    },
+                    "image": "/images/BA/museo-historico.jpg"
+                },
+                {
+                    "id": "malba",
+                    "name": {
+                        "es": "MALBA",
+                        "en": "MALBA",
+                        "he": "מאלבה"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Museo de Arte Latinoamericano de Buenos Aires, hogar de obras de Frida Kahlo, Diego Rivera y otros maestros",
+                        "en": "Museum of Latin American Art of Buenos Aires, home to works by Frida Kahlo, Diego Rivera and other masters",
+                        "he": "מוזיאון האמנות הלטינו-אמריקאית של בואנוס איירס, ביתם של יצירות של פרידה קאלו, דייגו ריברה ואמנים נוספים"
+                    },
+                    "image": "/images/BA/malba.jpg"
+                },
+                {
+                    "id": "recoletaCemetery",
+                    "name": {
+                        "es": "Cementerio de la Recoleta",
+                        "en": "Recoleta Cemetery",
+                        "he": "בית הקברות של רקולטה"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Un laberinto monumental de mausoleos, lugar de descanso de Eva Perón y figuras históricas argentinas",
+                        "en": "A monumental labyrinth of mausoleums, resting place of Eva Perón and Argentine historical figures",
+                        "he": "מבוך מונומנטלי של מאוזוליאומים, מקום המנוחה של אווה פרון ודמויות היסטוריות ארגנטינאיות"
+                    },
+                    "image": "/images/BA/recoleta-cemetery.jpg"
+                }
+            ],
+            "whatsIncluded": [
+                {
+                    "name": {
+                        "es": "Traslados privados mencionados en itinerario",
+                        "en": "Private transfers mentioned in itinerary",
+                        "he": "העברות פרטיות המוזכרות במסלול"
+                    },
+                    "icon": "Car"
+                },
+                {
+                    "name": {
+                        "es": "Guías profesionales para los tours",
+                        "en": "Professional guides for tours",
+                        "he": "מדריכים מקצועיים לסיורים"
+                    },
+                    "icon": "User"
+                },
+                {
+                    "name": {
+                        "es": "Entradas a museos y sitios sugeridos",
+                        "en": "Entrance to museums and suggested sites",
+                        "he": "כניסה למוזיאונים ואתרים מומלצים"
+                    },
+                    "icon": "Ticket"
+                },
+                {
+                    "name": {
+                        "es": "Asesoramiento para reservas de cenas y shows",
+                        "en": "Assistance with dinner and show reservations",
+                        "he": "סיוע בהזמנות לארוחות ערב והצגות"
+                    },
+                    "icon": "UtensilsCrossed"
+                }
+            ],
+            "itinerary": {
+                "pdfUrl": "/pdfs/Itinerary - Outline 4 days tour in Buenos Aires.pdf",
+                "days": [
+                    {
+                        "day": 1,
+                        "title": {
+                            "es": "El Corazón Histórico de Argentina",
+                            "en": "The Historical Heart of Argentina",
+                            "he": "הלב ההיסטורי של ארגנטינה"
+                        },
+                        "description": {
+                            "es": "Walking tour por Plaza de Mayo, visita a la Casa Rosada y Catedral. Paseo por Av. de Mayo, visita al Teatro Colón y café en el histórico Café Tortoni",
+                            "en": "Walking tour of Plaza de Mayo, visit to Casa Rosada and Cathedral. Walk along Av. de Mayo, visit to Teatro Colón and coffee at the historic Café Tortoni",
+                            "he": "סיור רגלי בפלאזה דה מאיו, ביקור בבית הוורוד ובקתדרלה. טיול בשדרת דה מאיו, ביקור בתיאטרון קולון וקפה בקפה טורטוני ההיסטורי"
+                        }
+                    },
+                    {
+                        "day": 2,
+                        "title": {
+                            "es": "Arquitectura y Monumentos Nacionales",
+                            "en": "Architecture and National Monuments",
+                            "he": "ארכיטקטורה ואנדרטאות לאומיות"
+                        },
+                        "description": {
+                            "es": "Visita guiada al Palacio Barolo (inspirado en la Divina Comedia), Congreso de la Nación y el Museo Histórico Nacional en Parque Lezama. Noche en San Telmo",
+                            "en": "Guided tour of Palacio Barolo (inspired by the Divine Comedy), National Congress and the National Historical Museum in Parque Lezama. Evening in San Telmo",
+                            "he": "סיור מודרך בארמון בארולו (בהשראת הקומדיה האלוהית), הקונגרס הלאומי והמוזיאון ההיסטורי הלאומי בפארק לזמה. ערב בסן טלמו"
+                        }
+                    },
+                    {
+                        "day": 3,
+                        "title": {
+                            "es": "Arte y Cultura: La Boca y Palermo",
+                            "en": "Art and Culture: La Boca and Palermo",
+                            "he": "אמנות ותרבות: לה בוקה ופלרמו"
+                        },
+                        "description": {
+                            "es": "Recorrido por Caminito y el estadio La Bombonera. Traslado a Palermo para visitar el MALBA. Por la noche, cena show de Tango (opcional)",
+                            "en": "Tour of Caminito and La Bombonera stadium. Transfer to Palermo to visit MALBA. In the evening, Tango dinner show (optional)",
+                            "he": "סיור בקמיניטו ובאצטדיון לה בומבונרה. העברה לפלרמו לביקור במאלבה. בערב, מופע ארוחת טנגו (אופציונלי)"
+                        }
+                    },
+                    {
+                        "day": 4,
+                        "title": {
+                            "es": "Recoleta: Historia y Legado",
+                            "en": "Recoleta: History and Legacy",
+                            "he": "רקולטה: היסטוריה ומורשת"
+                        },
+                        "description": {
+                            "es": "Visita guiada al Cementerio de la Recoleta y la Basílica del Pilar. Tiempo libre para compras en la feria artesanal o el Centro Cultural",
+                            "en": "Guided tour of Recoleta Cemetery and Basilica del Pilar. Free time for shopping at the artisan fair or the Cultural Center",
+                            "he": "סיור מודרך בבית הקברות של רקולטה ובבזיליקת דל פילאר. זמן פנוי לקניות ביריד האומנים או במרכז התרבות"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "patagonia-sur-explorer",
+            "name": {
+                "es": "Calafate & Ushuaia: Glaciares y Fin del Mundo",
+                "en": "Calafate & Ushuaia: Glaciers and End of the World",
+                "he": "קלפטה ואושואיה: קרחונים וקצה העולם"
+            },
+            "summary": {
+                "es": "Una aventura de 9 días explorando lo mejor de la Patagonia Austral",
+                "en": "A 9-day adventure exploring the best of Southern Patagonia",
+                "he": "הרפתקה בת 9 ימים לחקור את הטוב ביותר של פטגוניה הדרומית"
+            },
+            "description": {
+                "es": "Desde el imponente Glaciar Perito Moreno y el trekking en El Chaltén, hasta la ciudad del Fin del Mundo, Ushuaia, con su Canal Beagle y Parque Nacional. Una experiencia completa para conocer glaciares milenarios, montañas imponentes y la biodiversidad única del extremo sur de América.",
+                "en": "From the imposing Perito Moreno Glacier and trekking in El Chaltén to the city at the End of the World, Ushuaia, with its Beagle Channel and National Park. A complete experience to discover millennial glaciers, imposing mountains, and the unique biodiversity of the southern tip of America.",
+                "he": "מקרחון פריטו מורנו המרשים וטרקים באל צ'לטן ועד העיר בקצה העולם, אושואיה, עם תעלת ביגל והפארק הלאומי. חוויה מלאה לגלות קרחונים בני אלפי שנים, הרים מרשימים והמגוון הביולוגי הייחודי של קצה דרום אמריקה."
+            },
+            "inquiryText": {
+                "es": "¡Hola! Me interesa el módulo Calafate & Ushuaia. ¿Podrían brindarme más información sobre este viaje a la Patagonia Austral?",
+                "en": "Hello! I'm interested in the Calafate & Ushuaia module. Could you provide more information about this Southern Patagonia trip?",
+                "he": "שלום! אני מעוניין במודול קלפטה ואושואיה. תוכלו לספק מידע נוסף על הטיול הזה לפטגוניה הדרומית?"
+            },
+            "numberOfDays": 9,
+            "numberOfPeople": 20,
+            "tag": {
+                "es": "Patagonia Austral",
+                "en": "Southern Patagonia",
+                "he": "פטגוניה דרומית"
+            },
+            "coverImage": "/images/Module-CyU/patagonia-cover.jpg",
+            "locations": [
+                {
+                    "name": {
+                        "es": "El Calafate",
+                        "en": "El Calafate",
+                        "he": "אל קלאפטה"
+                    },
+                    "type": "city",
+                    "image": "/images/Module-CyU/patagonia-cover.jpg"
+                },
+                {
+                    "name": {
+                        "es": "Ushuaia",
+                        "en": "Ushuaia",
+                        "he": "אושואיה"
+                    },
+                    "type": "city",
+                    "image": "/images/Module-CyU/patagonia-cover.jpg"
+                }
+            ],
+            "mainAttractions": [
+                {
+                    "id": "peritoMoreno",
+                    "name": {
+                        "es": "Glaciar Perito Moreno",
+                        "en": "Perito Moreno Glacier",
+                        "he": "קרחון פריטו מורנו"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Caminata por las pasarelas frente al glaciar y navegación opcional frente a la pared sur",
+                        "en": "Walk along the walkways facing the glacier and optional sailing along the southern wall",
+                        "he": "הליכה לאורך השבילים מול הקרחון ושיוט אופציונלי לאורך הקיר הדרומי"
+                    },
+                    "image": "/images/Module-CyU/perito-moreno.jpg"
+                },
+                {
+                    "id": "fitzRoy",
+                    "name": {
+                        "es": "Monte Fitz Roy y Laguna de los Tres",
+                        "en": "Mount Fitz Roy and Laguna de los Tres",
+                        "he": "הר פיץ רוי ולגונה דה לוס טרס"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "El trekking más icónico de la zona, ofreciendo vistas espectaculares del cerro Fitz Roy",
+                        "en": "The most iconic trek in the area, offering spectacular views of Mount Fitz Roy",
+                        "he": "הטרק האיקוני ביותר באזור, המציע נופים מרהיבים של הר פיץ רוי"
+                    },
+                    "image": "/images/Module-CyU/fitz-roy.jpg"
+                },
+                {
+                    "id": "lagunaNimez",
+                    "name": {
+                        "es": "Reserva Laguna Nimez",
+                        "en": "Laguna Nimez Reserve",
+                        "he": "שמורת לגונה נימז"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Reserva natural ideal para el avistamiento de aves al atardecer en El Calafate",
+                        "en": "Natural reserve ideal for birdwatching at sunset in El Calafate",
+                        "he": "שמורת טבע אידיאלית לצפייה בציפורים בשקיעה באל קלאפטה"
+                    },
+                    "image": "/images/Module-CyU/nimez.jpg"
+                },
+                {
+                    "id": "ruta40",
+                    "name": {
+                        "es": "Mítica Ruta 40",
+                        "en": "Mythical Route 40",
+                        "he": "כביש 40 המיתולוגי"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Un viaje escénico a través de la inmensa estepa patagónica, conectando historias, glaciares y horizontes infinitos.",
+                        "en": "A scenic journey through the immense Patagonian steppe, connecting stories, glaciers, and infinite horizons.",
+                        "he": "מסע נופי דרך הערבה הפטגונית העצומה, המחבר בין סיפורים, קרחונים ואופקים אינסופיים."
+                    },
+                    "image": "/images/Module-CyU/ruta-40.jpg"
+                },
+                {
+                    "id": "lagunaTorre",
+                    "name": {
+                        "es": "Laguna Torre",
+                        "en": "Laguna Torre",
+                        "he": "לגונה טורה"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Una impresionante laguna de origen glaciar donde a menudo flotan témpanos de hielo, ubicada a los pies del macizo.",
+                        "en": "An impressive glacial lagoon where icebergs often float, located at the foot of the massif.",
+                        "he": "לגונה קרחונית מרשימה שבה צפים לעתים קרובות קרחונים, ממוקמת למרגלות המסיב."
+                    },
+                    "image": "/images/Module-CyU/laguna-torre.jpg"
+                },
+                {
+                    "id": "cerroTorre",
+                    "name": {
+                        "es": "Cerro Torre",
+                        "en": "Cerro Torre",
+                        "he": "סרו טורה"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Una de las montañas más bellas y difíciles de escalar del mundo, famosa por su aguda aguja de granito que toca el cielo.",
+                        "en": "One of the most beautiful and difficult mountains to climb in the world, famous for its sharp granite spire touching the sky.",
+                        "he": "אחד ההרים היפים והקשים לטיפוס בעולם, המפורסם בצריח הגרניט החד שלו הנוגע בשמיים."
+                    },
+                    "image": "/images/Module-CyU/cerro-torre.jpg"
+                },
+                {
+                    "id": "tierraFuego",
+                    "name": {
+                        "es": "Parque Nacional Tierra del Fuego",
+                        "en": "Tierra del Fuego National Park",
+                        "he": "הפארק הלאומי טיירה דל פואגו"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Exploración de Bahía Lapataia, senderos costeros y castoreras en el fin del mundo",
+                        "en": "Exploration of Lapataia Bay, coastal trails and beaver dams at the end of the world",
+                        "he": "חקר מפרץ לפטאיה, שבילי חוף וסכרי בונים בקצה העולם"
+                    },
+                    "image": "/images/Module-CyU/tierra-del-fuego.jpg"
+                },
+                {
+                    "id": "beagleChannel",
+                    "name": {
+                        "es": "Canal Beagle",
+                        "en": "Beagle Channel",
+                        "he": "תעלת ביגל"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Navegación para observar lobos marinos, cormoranes y el famoso faro Les Éclaireurs",
+                        "en": "Sailing to observe sea lions, cormorants and the famous Les Éclaireurs lighthouse",
+                        "he": "שיט לצפייה באריות ים, קורמורנים ומגדלור Les Éclaireurs המפורסם"
+                    },
+                    "image": "/images/Module-CyU/beagle.jpg"
+                },
+                {
+                    "id": "maritimeMuseum",
+                    "name": {
+                        "es": "Museo Marítimo y del Presidio",
+                        "en": "Maritime and Prison Museum",
+                        "he": "מוזיאון ימי ובית הסוהר"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Visita histórica a la antigua cárcel de Ushuaia",
+                        "en": "Historical visit to the old Ushuaia prison",
+                        "he": "ביקור היסטורי בבית הכלא הישן של אושואיה"
+                    },
+                    "image": "/images/Module-CyU/presidio.jpg"
+                }
+            ],
+            "whatsIncluded": [
+                {
+                    "name": {
+                        "es": "Alojamiento en El Calafate, El Chaltén y Ushuaia",
+                        "en": "Accommodation in El Calafate, El Chaltén and Ushuaia",
+                        "he": "לינה באל קלאפטה, אל צ'לטן ואושואיה"
+                    },
+                    "icon": "Hotel"
+                },
+                {
+                    "name": {
+                        "es": "Traslados terrestres y vuelos internos (según disponibilidad)",
+                        "en": "Land transfers and domestic flights (subject to availability)",
+                        "he": "העברות יבשתיות וטיסות פנים (בכפוף לזמינות)"
+                    },
+                    "icon": "Car"
+                },
+                {
+                    "name": {
+                        "es": "Excursiones mencionadas en el itinerario",
+                        "en": "Excursions mentioned in the itinerary",
+                        "he": "טיולים המוזכרים במסלול"
+                    },
+                    "icon": "Camera"
+                },
+                {
+                    "name": {
+                        "es": "Guías especializados en montaña y parques nacionales",
+                        "en": "Specialized mountain and national park guides",
+                        "he": "מדריכים מומחים בהרים ופארקים לאומיים"
+                    },
+                    "icon": "User"
+                }
+            ],
+            "itinerary": {
+                "pdfUrl": "/pdfs/Itinerary - Calafate & Ushuaia.pdf",
+                "days": [
+                    {
+                        "day": 1,
+                        "title": {
+                            "es": "Llegada a El Calafate",
+                            "en": "Arrival in El Calafate",
+                            "he": "הגעה לאל קלאפטה"
+                        },
+                        "description": {
+                            "es": "Llegada y paseo por la ciudad. Visita a la Reserva Laguna Nimez para avistamiento de aves al atardecer",
+                            "en": "Arrival and city tour. Visit to Laguna Nimez Reserve for bird watching at sunset",
+                            "he": "הגעה וסיור בעיר. ביקור בשמורת לגונה נימז לצפייה בציפורים בשקיעה"
+                        }
+                    },
+                    {
+                        "day": 2,
+                        "title": {
+                            "es": "Glaciar Perito Moreno",
+                            "en": "Perito Moreno Glacier",
+                            "he": "קרחון פריטו מורנו"
+                        },
+                        "description": {
+                            "es": "Traslado al Parque Nacional Los Glaciares. Recorrido por las pasarelas panorámicas y navegación opcional",
+                            "en": "Transfer to Los Glaciares National Park. Tour of the panoramic walkways and optional sailing",
+                            "he": "העברה לפארק הלאומי לוס גלאסיארס. סיור בשבילים הפנורמיים ושיט אופציונלי"
+                        }
+                    },
+                    {
+                        "day": 3,
+                        "title": {
+                            "es": "Ruta hacia El Chaltén",
+                            "en": "Route to El Chaltén",
+                            "he": "מסלול לאל צ'לטן"
+                        },
+                        "description": {
+                            "es": "Viaje por la Ruta 40 con parada histórica en La Leona. Llegada a la capital del trekking y caminata corta al Mirador de los Cóndores",
+                            "en": "Journey along Route 40 with a historic stop at La Leona. Arrival at the trekking capital and short hike to the Condor Viewpoint",
+                            "he": "מסע לאורך כביש 40 עם עצירה היסטורית בלה לאונה. הגעה לבירת הטרקים וטיול קצר לנקודת התצפית של הקונדורים"
+                        }
+                    },
+                    {
+                        "day": 4,
+                        "title": {
+                            "es": "Trekking en El Chaltén",
+                            "en": "Trekking in El Chaltén",
+                            "he": "טרק באל צ'לטן"
+                        },
+                        "description": {
+                            "es": "Día completo de caminata. Opción exigente a Laguna de los Tres (Fitz Roy) u opción media a Laguna Capri",
+                            "en": "Full day of hiking. Challenging option to Laguna de los Tres (Fitz Roy) or medium option to Laguna Capri",
+                            "he": "יום מלא של הליכה. אפשרות מאתגרת ללגונה דה לוס טרס (פיץ רוי) או אפשרות בינונית ללגונה קפרי"
+                        }
+                    },
+                    {
+                        "day": 5,
+                        "title": {
+                            "es": "Exploración de El Chaltén",
+                            "en": "Exploration of El Chaltén",
+                            "he": "חקר אל צ'לטן"
+                        },
+                        "description": {
+                            "es": "Trekking a Laguna Torre o visita a la cascada Chorrillo del Salto. Opcionales: kayak o cabalgata",
+                            "en": "Trekking to Laguna Torre or visit to Chorrillo del Salto waterfall. Optional: kayaking or horseback riding",
+                            "he": "טרק ללגונה טור או ביקור במפל צ'ורילו דל סלטו. אופציונלי: שיט קיאק או רכיבה על סוסים"
+                        }
+                    },
+                    {
+                        "day": 6,
+                        "title": {
+                            "es": "Vuelo a Ushuaia",
+                            "en": "Flight to Ushuaia",
+                            "he": "טיסה לאושואיה"
+                        },
+                        "description": {
+                            "es": "Regreso terrestre a El Calafate y vuelo hacia Ushuaia. Visita al puerto y al Museo Marítimo (antiguo presidio)",
+                            "en": "Land return to El Calafate and flight to Ushuaia. Visit to the port and Maritime Museum (old prison)",
+                            "he": "חזרה יבשתית לאל קלאפטה וטיסה לאושואיה. ביקור בנמל ובמוזיאון הימי (בית כלא ישן)"
+                        }
+                    },
+                    {
+                        "day": 7,
+                        "title": {
+                            "es": "Parque Nacional Tierra del Fuego",
+                            "en": "Tierra del Fuego National Park",
+                            "he": "הפארק הלאומי טיירה דל פואגו"
+                        },
+                        "description": {
+                            "es": "Visita a Bahía Lapataia y senderos del parque. Opción de tomar el Tren del Fin del Mundo",
+                            "en": "Visit to Lapataia Bay and park trails. Option to take the End of the World Train",
+                            "he": "ביקור במפרץ לפטאיה ובשבילי הפארק. אפשרות לקחת את רכבת קצה העולם"
+                        }
+                    },
+                    {
+                        "day": 8,
+                        "title": {
+                            "es": "Navegación Canal Beagle y Lagos",
+                            "en": "Beagle Channel and Lakes Navigation",
+                            "he": "שיט תעלת ביגל ואגמים"
+                        },
+                        "description": {
+                            "es": "Navegación por el canal visitando el faro Les Éclaireurs. Por la tarde, recorrido hacia los lagos Escondido y Fagnano cruzando el Paso Garibaldi",
+                            "en": "Sailing through the channel visiting the Les Éclaireurs lighthouse. In the afternoon, tour to Escondido and Fagnano lakes crossing Garibaldi Pass",
+                            "he": "שיט בתעלה עם ביקור במגדלור Les Éclaireurs. אחר הצהריים, סיור לאגמים אסקונדידו ופגנאנו עם חציית מעבר גריבלדי"
+                        }
+                    },
+                    {
+                        "day": 9,
+                        "title": {
+                            "es": "Despedida de Ushuaia",
+                            "en": "Farewell to Ushuaia",
+                            "he": "פרידה מאושואיה"
+                        },
+                        "description": {
+                            "es": "Traslado al aeropuerto para el vuelo de regreso a Buenos Aires",
+                            "en": "Transfer to the airport for the return flight to Buenos Aires",
+                            "he": "העברה לשדה התעופה לטיסת החזרה לבואנוס איירס"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

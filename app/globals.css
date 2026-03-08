@@ -1,26 +1,482 @@
+/* Import elegant cursive fonts from Google Fonts — must be first */
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Great+Vibes&family=Dancing+Script:wght@400;700&display=swap');
+
+/* Import Tailwind v4 */
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
+/* ============================================
+   TailwindCSS v4 Theme Configuration
+   (replaces tailwind.config.js from Vite project)
+   ============================================ */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  /* Border Radius */
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-xs: calc(var(--radius) - 6px);
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  /* Box Shadows */
+  --shadow-xs: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+
+  /* Colors */
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+
+  --color-sidebar: hsl(var(--sidebar-background));
+  --color-sidebar-foreground: hsl(var(--sidebar-foreground));
+  --color-sidebar-primary: hsl(var(--sidebar-primary));
+  --color-sidebar-primary-foreground: hsl(var(--sidebar-primary-foreground));
+  --color-sidebar-accent: hsl(var(--sidebar-accent));
+  --color-sidebar-accent-foreground: hsl(var(--sidebar-accent-foreground));
+  --color-sidebar-border: hsl(var(--sidebar-border));
+  --color-sidebar-ring: hsl(var(--sidebar-ring));
+
+  /* Keyframes */
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
+  --animate-caret-blink: caret-blink 1.25s ease-out infinite;
+  --animate-spin-slow: spin-slow 2s linear infinite;
+  --animate-logo-breathe: logo-breathe 2.5s ease-in-out infinite;
+  --animate-shimmer: shimmer 2s ease-in-out infinite;
+  --animate-bounce-dot: bounce-dot 1.4s ease-in-out infinite;
+
+  @keyframes accordion-down {
+    from {
+      height: 0;
+    }
+
+    to {
+      height: var(--radix-accordion-content-height);
+    }
+  }
+
+  @keyframes accordion-up {
+    from {
+      height: var(--radix-accordion-content-height);
+    }
+
+    to {
+      height: 0;
+    }
+  }
+
+  @keyframes caret-blink {
+
+    0%,
+    70%,
+    100% {
+      opacity: 1;
+    }
+
+    20%,
+    50% {
+      opacity: 0;
+    }
+  }
+
+  @keyframes spin-slow {
+    from {
+      transform: rotate(0deg);
+    }
+
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes logo-breathe {
+
+    0%,
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+
+    50% {
+      transform: scale(1.05);
+      opacity: 0.85;
+    }
+  }
+
+  @keyframes bounce-dot {
+
+    0%,
+    80%,
+    100% {
+      transform: scale(0.6);
+      opacity: 0.4;
+    }
+
+    40% {
+      transform: scale(1);
+      opacity: 1;
+    }
   }
 }
 
+/* ============================================
+   CSS Variables — Light Theme (from index.css)
+   ============================================ */
+:root {
+  /* --- FONDO BASE (Deep Cream) --- */
+  --background: 18 85% 96%;
+  --foreground: 240 10% 3.9%;
+
+  /* --- TARJETAS / PANELES --- */
+  --card: 0 0% 100%;
+  --card-foreground: 240 10% 3.9%;
+
+  --popover: 0 0% 100%;
+  --popover-foreground: 240 10% 3.9%;
+
+  /* --- COLOR PRINCIPAL (Azul argentino) --- */
+  --primary: 207 41% 73%;
+  --primary-foreground: 240 5.9% 10%;
+
+  /* --- COLOR SECUNDARIO (Celeste suave) --- */
+  --secondary: 207 35% 88%;
+  --secondary-foreground: 240 5.9% 10%;
+
+  /* --- ACENTOS Y HOVERS (Celeste) --- */
+  --accent: 207 40% 85%;
+  --accent-foreground: 240 5.9% 10%;
+
+  /* --- MUTED --- */
+  --muted: 207 25% 90%;
+  --muted-foreground: 240 3.8% 46.1%;
+
+  /* --- BORDES E INPUTS --- */
+  --border: 207 30% 82%;
+  --input: 207 30% 82%;
+  --ring: 207 41% 73%;
+
+  /* --- DESTRUCTIVE --- */
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 0 0% 98%;
+
+  /* --- RADIUS --- */
+  --radius: 0.625rem;
+
+  /* --- SIDEBAR --- */
+  --sidebar-background: 18 85% 96%;
+  --sidebar-foreground: 240 5.3% 26.1%;
+  --sidebar-primary: 207 41% 73%;
+  --sidebar-primary-foreground: 240 5.9% 10%;
+  --sidebar-accent: 207 40% 85%;
+  --sidebar-accent-foreground: 240 5.9% 10%;
+  --sidebar-border: 207 30% 82%;
+  --sidebar-ring: 207 41% 73%;
+}
+
+/* ============================================
+   CSS Variables — Dark Theme (from index.css)
+   ============================================ */
+.dark {
+  --background: 240 10% 3.9%;
+  --foreground: 0 0% 98%;
+  --card: 240 10% 3.9%;
+  --card-foreground: 0 0% 98%;
+  --popover: 240 10% 3.9%;
+  --popover-foreground: 0 0% 98%;
+  --primary: 0 0% 98%;
+  --primary-foreground: 240 5.9% 10%;
+  --secondary: 240 3.7% 15.9%;
+  --secondary-foreground: 0 0% 98%;
+  --muted: 240 3.7% 15.9%;
+  --muted-foreground: 240 5% 64.9%;
+  --accent: 240 3.7% 15.9%;
+  --accent-foreground: 0 0% 98%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 240 3.7% 15.9%;
+  --input: 240 3.7% 15.9%;
+  --ring: 240 4.9% 83.9%;
+  --sidebar-background: 240 5.9% 10%;
+  --sidebar-foreground: 240 4.8% 95.9%;
+  --sidebar-primary: 224.3 76.3% 48%;
+  --sidebar-primary-foreground: 0 0% 100%;
+  --sidebar-accent: 240 3.7% 15.9%;
+  --sidebar-accent-foreground: 240 4.8% 95.9%;
+  --sidebar-border: 240 3.7% 15.9%;
+  --sidebar-ring: 217.2 91.2% 59.8%;
+}
+
+/* ============================================
+   Base Styles (from index.css @layer base)
+   ============================================ */
+* {
+  border-color: hsl(var(--border));
+}
+
+html {
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100vw;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+
+/* ============================================
+   Global Styles (from App.css)
+   ============================================ */
+
+/* Box Sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #7cb2dd;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #66a0d0;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #232121fa;
+}
+
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection */
+::selection {
+  background: #daa093;
+  color: white;
+}
+
+/* RTL Support */
+[dir="rtl"] {
+  text-align: right;
+}
+
+[dir="rtl"] .space-x-2>*+* {
+  --tw-space-x-reverse: 1;
+}
+
+[dir="rtl"] .space-x-4>*+* {
+  --tw-space-x-reverse: 1;
+}
+
+[dir="rtl"] .space-x-8>*+* {
+  --tw-space-x-reverse: 1;
+}
+
+/* Line Clamp */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ============================================
+   Animation Utilities (from App.css)
+   ============================================ */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes shimmer {
+
+  0%,
+  100% {
+    text-shadow:
+      0 2px 4px rgba(0, 0, 0, 0.3),
+      0 1px 2px rgba(0, 0, 0, 0.2);
+  }
+
+  50% {
+    text-shadow:
+      0 2px 4px rgba(0, 0, 0, 0.3),
+      0 1px 2px rgba(0, 0, 0, 0.2),
+      0 0 20px rgba(92, 182, 255, 0.8),
+      0 0 30px rgba(92, 182, 255, 0.6),
+      0 0 40px rgba(92, 182, 255, 0.4);
+  }
+}
+
+.animate-shimmer {
+  animation: shimmer 2s ease-in-out infinite;
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+/* ============================================
+   Focus Styles (from App.css)
+   ============================================ */
+*:focus-visible {
+  outline: 2px solid #7cb2dd;
+  outline-offset: 2px;
+}
+
+/* ============================================
+   Image Loading (from App.css)
+   ============================================ */
+img {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+img.loading {
+  opacity: 0;
+}
+
+/* Prevent FOUC */
+.no-fouc {
+  visibility: hidden;
+}
+
+/* ============================================
+   Custom Button Hover Effects (from App.css)
+   ============================================ */
+.btn-shine {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-shine::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg,
+      transparent,
+      rgba(255, 255, 255, 0.2),
+      transparent);
+  transition: left 0.5s ease;
+}
+
+.btn-shine:hover::after {
+  left: 100%;
+}
+
+/* ============================================
+   Card Hover Lift (from App.css)
+   ============================================ */
+.card-lift {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-lift:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* ============================================
+   Gradient Text (from App.css)
+   ============================================ */
+.gradient-text {
+  background: linear-gradient(135deg, #7cb2dd 0%, #daa093 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ============================================
+   Glass Effect (from App.css)
+   ============================================ */
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* ============================================
+   Text Shadows (from App.css)
+   ============================================ */
+.hero-text-shadow {
+  text-shadow:
+    0 4px 8px rgba(0, 0, 0, 0.4),
+    0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.services-text-shadow {
+  text-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.3),
+    0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+/* ============================================
+   Responsive Typography (from App.css)
+   ============================================ */
+@media (max-width: 640px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 1536px) {
+  html {
+    font-size: 18px;
+  }
 }
