@@ -94,8 +94,11 @@ export default function About() {
                             {t('about.title')}
                         </h2>
 
+                        <p className="text-lg text-[#2D2D2D]/70 leading-relaxed mb-4">
+                            {t('about.description1')}
+                        </p>
                         <p className="text-lg text-[#2D2D2D]/70 leading-relaxed mb-8">
-                            {t('about.description')}
+                            {t('about.description2')}
                         </p>
 
                         <div className="space-y-4 mb-10">

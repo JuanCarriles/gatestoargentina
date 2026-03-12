@@ -15,9 +15,9 @@ import {
 } from '@/components/ui/dropdown-menu';
 
 const languages = [
-    { code: 'en', name: 'English', flag: '🇺🇸' },
-    { code: 'es', name: 'Español', flag: '🇦🇷' },
-    { code: 'he', name: 'עברית', flag: '🇮🇱' },
+    { code: 'en', name: 'English', flag: 'EN' },
+    { code: 'es', name: 'Español', flag: 'ES' },
+    { code: 'he', name: 'עברית', flag: 'HE' },
 ];
 
 export default function Header() {

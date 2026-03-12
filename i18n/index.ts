@@ -32,7 +32,7 @@ i18n
 export default i18n;
 
 export const languages = [
-    { code: 'en', name: 'English', flag: '🇺🇸' },
-    { code: 'es', name: 'Español', flag: '🇦🇷' },
-    { code: 'he', name: 'עברית', flag: '🇮🇱' },
+    { code: 'en', name: 'English', flag: 'EN' },
+    { code: 'es', name: 'Español', flag: 'ES' },
+    { code: 'he', name: 'עברית', flag: 'HE' },
 ];

@@ -14,19 +14,19 @@
   },
   "modules": {
     "title": "Nuestras perlas de Viaje",
-    "subtitle": "Experiencias cuidadosamente diseñadas para grupos personalizados.",
+    "subtitle": "Experiencias cuidadosamente diseñadas para viajes personalizados.",
     "cta": "Ver Detalles",
     "days": "Días",
     "people": "Viajeros",
     "inquireNow": "Consultar por este Módulo",
     "downloadItinerary": "Descargar Itinerario Completo",
     "mainAttractions": "Principales Atracciones",
-    "dailyItinerary": "Itinerario Día a Día",
+    "dailyItinerary": "Ejemplo de itinerario",
     "travelLocations": "Destinos Incluidos",
     "tripOverview": "Resumen del Viaje",
     "whatsIncluded": "Qué Incluye",
     "readyToExperience": "¿Listo para vivir esta experiencia?",
-    "customizeTrip": "Contáctanos y personalizaremos tu viaje grupal",
+    "customizeTrip": "Contáctanos y personalizaremos tu viaje",
     "loading": "Cargando...",
     "backToHome": "Inicio",
     "notFound": "Módulo no encontrado",
@@ -38,7 +38,7 @@
     "contactViaGroupMe": "GroupMe"
   },
   "attractionTypes": {
-    "natural": "Natural",
+    "natural": "Naturaleza",
     "cultural": "Cultural",
     "adventure": "Aventura"
   },
@@ -226,7 +226,8 @@
   },
   "about": {
     "title": "Nacida y criada en Argentina",
-    "description": "Soy la fundadora de Gates to Argentina, una agencia boutique nacida con una sólida trayectoria internacional. Durante más de 15 años, dirigí operaciones turísticas en Medio Oriente a través de Gates to Israel, gestionando más de 500 grupos y perfeccionando el arte de la logística de viajes. Nuestra firma se distingue por ofrecer servicio trilingüe (español, inglés y hebreo) y soporte 24 horas al día, 7 días a la semana, asegurando que cada detalle de su viaje esté cubierto. Aunque nuestra sede original estaba en Israel, hoy operamos con oficinas en Tucumán e Israel, tendiendo puentes entre continentes. Mi papel siempre ha sido el de 'valentía y logística'. Luego de regresar a Argentina en 2023, aplico ese mismo rigor y pasión para diseñar programas personalizados que combinan aventura, cultura y comodidad en uno de los países más fascinantes de Sudamérica.",
+    "description1": "Soy el fundador de Gates to Argentina, una agencia de viajes boutique dedicada a crear viajes personalizados por uno de los destinos más fascinantes de Sudamérica. Mi experiencia en turismo es internacional. Durante más de quince años, dirigí operaciones turísticas en Oriente Medio a través de Gates to Israel, coordinando más de 500 grupos y desarrollando una amplia experiencia en logística de viajes, gestión de grupos y prestación de servicios de alta calidad.",
+    "description2": "Hoy en día, Gates to Argentina opera con oficinas en Argentina e Israel, ofreciendo un servicio trilingüe en español, inglés y hebreo, junto con asistencia las 24 horas del día, los 7 días de la semana, para garantizar que cada viaje se desarrolle sin problemas de principio a fin. Con el lanzamiento de Gates to Argentina, traje esta experiencia global a mi país, centrándome en el diseño de itinerarios cuidadosamente elaborados que combinan cultura, aventura y comodidad, al tiempo que muestran la auténtica belleza y diversidad de Argentina.",
     "list1": "Idiomas: Español, Inglés, Hebreo",
     "list2": "Experiencia: +15 Años en la industria turística",
     "list3": "Sedes : Argentina, Israel",
@@ -275,7 +276,7 @@
     }
   },
   "footer": {
-    "description": "Especializados en programas grupales personalizados con soporte bilingüe 24/7. Llevamos la calidez de Argentina a los viajeros.",
+    "description": "Especializados en programas personalizados con soporte bilingüe 24/7. Llevamos la calidez de Argentina a los viajeros.",
     "quickLinks": "Links Rápidos",
     "destinations": "Destinos",
     "contact": "Contacto",

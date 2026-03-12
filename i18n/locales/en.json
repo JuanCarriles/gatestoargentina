@@ -14,19 +14,19 @@
   },
   "modules": {
     "title": "Our Travel Perls",
-    "subtitle": "Carefully designed experiences for personalized groups.",
+    "subtitle": "Carefully designed experiences for personalized trips.",
     "cta": "View Details",
     "days": "Days",
     "people": "Travelers",
     "inquireNow": "Inquire About This Module",
     "downloadItinerary": "Download Full Itinerary",
     "mainAttractions": "Main Attractions",
-    "dailyItinerary": "Day-by-Day Itinerary",
+    "dailyItinerary": "Example of itinerary",
     "travelLocations": "Destinations Included",
     "tripOverview": "Trip Overview",
     "whatsIncluded": "What's Included",
     "readyToExperience": "Ready to experience this?",
-    "customizeTrip": "Contact us and we'll customize your group trip",
+    "customizeTrip": "Contact us and we'll customize your trip",
     "loading": "Loading...",
     "backToHome": "Home",
     "notFound": "Module not found",
@@ -38,8 +38,8 @@
     "contactViaGroupMe": "GroupMe"
   },
   "attractionTypes": {
-    "natural": "Natural",
-    "cultural": "Cultural",
+    "natural": "Nature",
+    "cultural": "Culture",
     "adventure": "Adventure"
   },
   "attractions": {
@@ -226,7 +226,8 @@
   },
   "about": {
     "title": "Born and raised in Argentina",
-    "description": "I am the founder of Gates to Argentina, a boutique agency born from a solid international background. For over 15 years, I led tour operations in the Middle East through Gates to Israel, managing more than 500 groups and perfecting the art of travel logistics. Our firm is distinguished by offering trilingual service (Spanish, English, and Hebrew) and 24/7 support, ensuring that every detail of your trip is covered. Although our original headquarters were in Israel, today we operate with offices in Tucumán, and Israel, building bridges between continents. My role has always been one of 'courage and logistics.' After returning to Argentina in 2023, I apply that same rigor and passion to designing personalized programs that combine adventure, culture, and comfort in one of South America's most fascinating countries.",
+    "description1": "I am the founder of Gates to Argentina, a boutique travel agency dedicated to creating personalized journeys across one of South America’s most fascinating destinations. My background in tourism is international. For more than fifteen years, I led tour operations in the Middle East through Gates to Israel, coordinating over 500 groups and developing extensive expertise in travel logistics, group management, and delivering high-quality service.",
+    "description2": "Today, Gates to Argentina operates with offices in Argentina and Israel, offering trilingual service in Spanish, English, and Hebrew, along with 24/7 support to ensure that every journey runs smoothly from beginning to end. With the launch of Gates to Argentina, I brought this global experience back home, focusing on designing thoughtfully crafted itineraries that combine culture, adventure, and comfort while showcasing the authentic beauty and diversity of Argentina.",
     "list1": "Languages: Spanish, English, Hebrew",
     "list2": "Experience: +15 Years in the tourism industry",
     "list3": "Headquarters : Argentina, Israel",
@@ -252,7 +253,7 @@
   "contact": {
     "section": "Contact",
     "title": "Start Your Adventure",
-    "subtitle": "Contact us and let's design your dream trip together",
+    "subtitle": "Contact us and let's design your dream journey together",
     "name": "Full name",
     "email": "Email",
     "phone": "Phone (Optional)",
@@ -275,7 +276,7 @@
     }
   },
   "footer": {
-    "description": "Specializing in customized group programs with 24/7 bilingual support. We bring the warmth of Argentina to travelers.",
+    "description": "Specializing in customized programs with 24/7 bilingual support. We bring the warmth of Argentina to travelers.",
     "quickLinks": "Quick Links",
     "destinations": "Destinations",
     "contact": "Contact",
