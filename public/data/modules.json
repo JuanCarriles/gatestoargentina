@@ -945,6 +945,185 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "iguazu",
+            "name": {
+                "es": "Cataratas del Iguazú",
+                "en": "Iguazu Falls",
+                "he": "מפלי איגואסו"
+            },
+            "summary": {
+                "es": "Descubrí la majestuosidad de una de las 7 Maravillas Naturales del Mundo",
+                "en": "Discover the majesty of one of the 7 Natural Wonders of the World",
+                "he": "גלו את ההוד של אחד מ-7 פלאי הטבע של העולם"
+            },
+            "description": {
+                "es": "Sumergite en la selva misionera para vivir la fuerza de la naturaleza. Este viaje te llevará a recorrer las imponentes Cataratas del Iguazú desde sus pasarelas del lado argentino y brasileño, culminando con la sobrecogedora vista de la Garganta del Diablo. Una experiencia inolvidable rodeada de flora y fauna subtropical.",
+                "en": "Immerse yourself in the Misiones jungle to experience the force of nature. This trip will take you through the imposing Iguazu Falls from its walkways on the Argentine and Brazilian sides, culminating with the breathtaking view of the Devil's Throat. An unforgettable experience surrounded by subtropical flora and fauna.",
+                "he": "השקעו את עצמכם בג'ונגל של מיסיונס כדי לחוות את כוחה של הטבע. הטיול ייקח אתכם דרך מפלי איגואסו המרשימים מהשבילים בצד הארגנטינאי והברזילאי, ויסתיים בנוף עוצר הנשימה של גרון השטן. חוויה בלתי נשכחת מוקפת בצמחייה ובעלי חיים סובטרופיים."
+            },
+            "inquiryText": {
+                "es": "¡Hola! Me interesa conocer más sobre el módulo de las Cataratas del Iguazú. ¿Podrían proporcionarme detalles sobre disponibilidad y precios?",
+                "en": "Hello! I'm interested in learning more about the Iguazu Falls module. Could you provide details about availability and pricing?",
+                "he": "שלום! אני מעוניין לקבל מידע נוסף על מודול מפלי איגואסו. תוכלו לספק פרטים על זמינות ומחירים?"
+            },
+            "tag": {
+                "es": "Litoral",
+                "en": "Littoral",
+                "he": "אזור החוף"
+            },
+            "coverImage": "/images/Iguazu/iguazu-cover.jpg",
+            "locations": [
+                {
+                    "name": {
+                        "es": "Puerto Iguazú",
+                        "en": "Puerto Iguazu",
+                        "he": "פוארטו איגואסו"
+                    },
+                    "type": "city",
+                    "image": "/images/Iguazu/puerto-iguazu.jpg"
+                }
+            ],
+            "mainAttractions": [
+                {
+                    "id": "parqueArgentino",
+                    "name": {
+                        "es": "Cataratas Del Iguazu - Lado Argentino",
+                        "en": "Iguazu Falls - Argentine Side",
+                        "he": "מפלי איגואסו - הצד הארגנטינאי"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Recorrido por los circuitos superior e inferior para ver los saltos de cerca dentro del Parque Nacional Iguazú.",
+                        "en": "Tour of the upper and lower circuits to see the falls up close within the Iguazu National Park.",
+                        "he": "סיור במסלולים העליון והתחתון כדי לראות את המפלים מקרוב בתוך הפארק הלאומי איגואסו."
+                    },
+                    "image": "/images/Iguazu/lado-argentino.jpg"
+                },
+                {
+                    "id": "gargantaDiablo",
+                    "name": {
+                        "es": "Garganta del Diablo",
+                        "en": "Devil's Throat",
+                        "he": "גרון השטן"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "El salto más imponente y caudaloso del parque, accesible a través del tren ecológico y pasarelas.",
+                        "en": "The most impressive and voluminous fall in the park, accessible via the ecological train and walkways.",
+                        "he": "המפל המרשים והשופע ביותר בפארק, נגיש באמצעות הרכבת האקולוגית והשבילים."
+                    },
+                    "image": "/images/Iguazu/garganta-diablo.jpg"
+                },
+                {
+                    "id": "hitoTresFronteras",
+                    "name": {
+                        "es": "Hito Tres Fronteras",
+                        "en": "Three Borders Landmark",
+                        "he": "נקודת שלוש הגבולות"
+                    },
+                    "type": "cultural",
+                    "description": {
+                        "es": "Punto panorámico emblemático donde confluyen los ríos Iguazú y Paraná, permitiendo observar las costas de Argentina, Brasil y Paraguay.",
+                        "en": "Emblematic panoramic point where the Iguazu and Parana rivers converge, allowing you to observe the coasts of Argentina, Brazil, and Paraguay.",
+                        "he": "נקודת תצפית פנורמית סמלית בה מתמזגים נהרות איגואסו ופרנה, ומאפשרת לצפות בחופי ארגנטינה, ברזיל ופרגוואי."
+                    },
+                    "image": "/images/Iguazu/hito-tres-fronteras.jpg"
+                },
+                {
+                    "id": "jardinPicaflores",
+                    "name": {
+                        "es": "Jardín de los Picaflores",
+                        "en": "Hummingbird Garden",
+                        "he": "גן יונקי הדבש"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Un encantador espacio en el centro de la ciudad dedicado a la observación de diversas especies de colibríes en total libertad.",
+                        "en": "A charming space in the city center dedicated to observing various species of hummingbirds in total freedom.",
+                        "he": "חלל מקסים במרכז העיר המוקדש לתצפית במינים שונים של יונקי דבש בחופשיות מוחלטת."
+                    },
+                    "image": "/images/Iguazu/jardin-picaflores.jpg"
+                }
+            ],
+            "whatsIncluded": [
+                {
+                    "name": {
+                        "es": "Alojamiento en Puerto Iguazú",
+                        "en": "Accommodation in Puerto Iguazu",
+                        "he": "לינה בפוארטו איגואסו"
+                    },
+                    "icon": "Hotel"
+                },
+                {
+                    "name": {
+                        "es": "Traslados al aeropuerto y parques",
+                        "en": "Transfers to airport and parks",
+                        "he": "העברות לשדה התעופה ולפארקים"
+                    },
+                    "icon": "Car"
+                },
+                {
+                    "name": {
+                        "es": "Entradas a los Parques Nacionales",
+                        "en": "National Parks entrance fees",
+                        "he": "דמי כניסה לפארקים לאומיים"
+                    },
+                    "icon": "Ticket"
+                },
+                {
+                    "name": {
+                        "es": "Guías bilingües profesionales",
+                        "en": "Professional bilingual guides",
+                        "he": "מדריכים דו-לשוניים מקצועיים"
+                    },
+                    "icon": "User"
+                }
+            ],
+            "itinerary": {
+                "days": [
+                    {
+                        "day": 1,
+                        "title": {
+                            "es": "Llegada y Atardecer en las Tres Fronteras",
+                            "en": "Arrival and Sunset at the Three Borders",
+                            "he": "הגעה ושקיעה בשלוש הגבולות"
+                        },
+                        "description": {
+                            "es": "Recepción en el aeropuerto y traslado al hotel. Por la tarde, visita al encantador Jardín de los Picaflores en la ciudad y luego disfrutarás del atardecer en el Hito Tres Fronteras.",
+                            "en": "Airport reception and transfer to the hotel. In the afternoon, visit the charming Hummingbird Garden in the city and then enjoy the sunset at the Three Borders Landmark.",
+                            "he": "קבלת פנים בשדה התעופה והעברה למלון. אחר הצהריים, ביקור בגן יונקי הדבש המקסים בעיר ולאחר מכן תיהנו מהשקיעה בנקודת שלוש הגבולות."
+                        }
+                    },
+                    {
+                        "day": 2,
+                        "title": {
+                            "es": "Cataratas Lado Argentino y Garganta del Diablo",
+                            "en": "Iguazu Falls Argentine Side and Devil's Throat",
+                            "he": "מפלי איגואסו הצד הארגנטינאי וגרון השטן"
+                        },
+                        "description": {
+                            "es": "Excursión de día completo recorriendo los circuitos superior e inferior del Parque Nacional Iguazú, culminando con la majestuosa Garganta del Diablo.",
+                            "en": "Full day excursion touring the upper and lower circuits of the Iguazu National Park, culminating with the majestic Devil's Throat.",
+                            "he": "טיול יום שלם בסיור במסלולים העליון והתחתון של הפארק הלאומי איגואסו, שמסתיים בגרון השטן המלכותי."
+                        }
+                    },
+                    {
+                        "day": 3,
+                        "title": {
+                            "es": "Mañana Libre y Despedida",
+                            "en": "Free Morning and Farewell",
+                            "he": "בוקר חופשי ופרידה"
+                        },
+                        "description": {
+                            "es": "Mañana libre para recorrer Puerto Iguazú, comprar recuerdos o disfrutar de las instalaciones del alojamiento. A la hora acordada, traslado al aeropuerto.",
+                            "en": "Free morning to explore Puerto Iguazu, buy souvenirs, or enjoy the accommodation facilities. At the agreed time, transfer to the airport.",
+                            "he": "בוקר חופשי לחקור את פוארטו איגואסו, לקנות מזכרות או ליהנות ממתקני הלינה. בזמן שנקבע, העברה לשדה התעופה."
+                        }
+                    }
+                ]
+            }
         }
     ]
 }
