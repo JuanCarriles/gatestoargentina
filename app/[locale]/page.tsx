@@ -77,6 +77,18 @@ export default async function Home({ params }: Props) {
       name: 'Argentina',
     },
     availableLanguage: ['English', 'Spanish', 'Hebrew'],
+    makesOffer: [
+      {
+        '@type': 'Offer',
+        name: 'Group Tours',
+        description: 'Custom-designed group travel packages across Argentina',
+      },
+      {
+        '@type': 'Offer',
+        name: 'Individual Tours',
+        description: 'Personalized private travel experiences tailored to your preferences',
+      },
+    ],
     address: [
       {
         '@type': 'PostalAddress',
