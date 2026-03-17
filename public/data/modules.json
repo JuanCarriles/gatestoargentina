@@ -608,9 +608,9 @@
         {
             "id": "calafate-ushuaia-explorer",
             "name": {
-                "es": "Calafate & Ushuaia: Glaciares y Fin del Mundo",
-                "en": "Calafate & Ushuaia: Glaciers and End of the World",
-                "he": "קלפטה ואושואיה: קרחונים וקצה העולם"
+                "es": "Calafate & Ushuaia",
+                "en": "Calafate & Ushuaia",
+                "he": "קלפטה ואושואיה"
             },
             "summary": {
                 "es": "Explora lo mejor de la Patagonia Austral",
@@ -969,9 +969,9 @@
                 "he": "שלום! אני מעוניין לקבל מידע נוסף על מודול מפלי איגואסו. תוכלו לספק פרטים על זמינות ומחירים?"
             },
             "tag": {
-                "es": "Litoral",
-                "en": "Littoral",
-                "he": "אזור החוף"
+                "es": "Noreste",
+                "en": "Northeast",
+                "he": "צפון מזרח"
             },
             "coverImage": "/images/Iguazu/iguazu-cover.jpg",
             "locations": [
@@ -1017,50 +1017,50 @@
                     "image": "/images/Iguazu/garganta-diablo.jpg"
                 },
                 {
-                    "id": "hitoTresFronteras",
+                    "id": "senderoMacuco",
                     "name": {
-                        "es": "Hito Tres Fronteras",
-                        "en": "Three Borders Landmark",
-                        "he": "נקודת שלוש הגבולות"
-                    },
-                    "type": "cultural",
-                    "description": {
-                        "es": "Punto panorámico emblemático donde confluyen los ríos Iguazú y Paraná, permitiendo observar las costas de Argentina, Brasil y Paraguay.",
-                        "en": "Emblematic panoramic point where the Iguazu and Parana rivers converge, allowing you to observe the coasts of Argentina, Brazil, and Paraguay.",
-                        "he": "נקודת תצפית פנורמית סמלית בה מתמזגים נהרות איגואסו ופרנה, ומאפשרת לצפות בחופי ארגנטינה, ברזיל ופרגוואי."
-                    },
-                    "image": "/images/Iguazu/hito-tres-fronteras.jpg"
-                },
-                {
-                    "id": "jardinPicaflores",
-                    "name": {
-                        "es": "Jardín de los Picaflores",
-                        "en": "Hummingbird Garden",
-                        "he": "גן יונקי הדבש"
+                        "es": "Sendero Macuco",
+                        "en": "Macuco Trail",
+                        "he": "שביל מקוקו"
                     },
                     "type": "natural",
                     "description": {
-                        "es": "Un encantador espacio en el centro de la ciudad dedicado a la observación de diversas especies de colibríes en total libertad.",
-                        "en": "A charming space in the city center dedicated to observing various species of hummingbirds in total freedom.",
-                        "he": "חלל מקסים במרכז העיר המוקדש לתצפית במינים שונים של יונקי דבש בחופשיות מוחלטת."
+                        "es": "Un sendero de 7 km (ida y vuelta) a través de la selva que conduce a una cascada aislada, ofreciendo un respiro de las multitudes.",
+                        "en": "A 7 km round-trip hiking trail leading through the jungle to a secluded waterfall, offering a break from the crowds.",
+                        "he": "מסלול הליכה של 7 ק\"מ הלוך ושוב דרך הג'ונגל אל מפל מבודד, המציע הפסקה מההמונים."
                     },
-                    "image": "/images/Iguazu/jardin-picaflores.jpg"
+                    "image": "/images/Iguazu/sendero-macuco.jpg"
+                },
+                {
+                    "id": "senderoVerde",
+                    "name": {
+                        "es": "Sendero Verde",
+                        "en": "Green Trail",
+                        "he": "השביל הירוק"
+                    },
+                    "type": "natural",
+                    "description": {
+                        "es": "Un breve paseo de 10 minutos por el bosque que conecta la entrada con los circuitos principales, ideal para observar fauna local como monos y coatíes.",
+                        "en": "A short 10-minute walk through the forest connecting the entrance to the circuit paths, great for spotting wildlife like monkeys and coatis.",
+                        "he": "הליכה קצרה של 10 דקות דרך היער המחברת את הכניסה למסלולי המעגל, מצוינת לזיהוי חיות בר כמו קופים וחוטמנים."
+                    },
+                    "image": "/images/Iguazu/sendero-verde.jpg"
                 }
             ],
             "whatsIncluded": [
                 {
                     "name": {
-                        "es": "Alojamiento en Puerto Iguazú",
-                        "en": "Accommodation in Puerto Iguazu",
-                        "he": "לינה בפוארטו איגואסו"
+                        "es": "Alojamiento",
+                        "en": "Accommodation",
+                        "he": "לינה"
                     },
                     "icon": "Hotel"
                 },
                 {
                     "name": {
-                        "es": "Traslados al aeropuerto y parques",
-                        "en": "Transfers to airport and parks",
-                        "he": "העברות לשדה התעופה ולפארקים"
+                        "es": "Traslados desde/hacia el aeropuerto",
+                        "en": "Transfers from/to airport",
+                        "he": "העברות מ/אל שדה התעופה"
                     },
                     "icon": "Car"
                 },
@@ -1080,50 +1080,7 @@
                     },
                     "icon": "User"
                 }
-            ],
-            "itinerary": {
-                "days": [
-                    {
-                        "day": 1,
-                        "title": {
-                            "es": "Llegada y Atardecer en las Tres Fronteras",
-                            "en": "Arrival and Sunset at the Three Borders",
-                            "he": "הגעה ושקיעה בשלוש הגבולות"
-                        },
-                        "description": {
-                            "es": "Recepción en el aeropuerto y traslado al hotel. Por la tarde, visita al encantador Jardín de los Picaflores en la ciudad y luego disfrutarás del atardecer en el Hito Tres Fronteras.",
-                            "en": "Airport reception and transfer to the hotel. In the afternoon, visit the charming Hummingbird Garden in the city and then enjoy the sunset at the Three Borders Landmark.",
-                            "he": "קבלת פנים בשדה התעופה והעברה למלון. אחר הצהריים, ביקור בגן יונקי הדבש המקסים בעיר ולאחר מכן תיהנו מהשקיעה בנקודת שלוש הגבולות."
-                        }
-                    },
-                    {
-                        "day": 2,
-                        "title": {
-                            "es": "Cataratas Lado Argentino y Garganta del Diablo",
-                            "en": "Iguazu Falls Argentine Side and Devil's Throat",
-                            "he": "מפלי איגואסו הצד הארגנטינאי וגרון השטן"
-                        },
-                        "description": {
-                            "es": "Excursión de día completo recorriendo los circuitos superior e inferior del Parque Nacional Iguazú, culminando con la majestuosa Garganta del Diablo.",
-                            "en": "Full day excursion touring the upper and lower circuits of the Iguazu National Park, culminating with the majestic Devil's Throat.",
-                            "he": "טיול יום שלם בסיור במסלולים העליון והתחתון של הפארק הלאומי איגואסו, שמסתיים בגרון השטן המלכותי."
-                        }
-                    },
-                    {
-                        "day": 3,
-                        "title": {
-                            "es": "Mañana Libre y Despedida",
-                            "en": "Free Morning and Farewell",
-                            "he": "בוקר חופשי ופרידה"
-                        },
-                        "description": {
-                            "es": "Mañana libre para recorrer Puerto Iguazú, comprar recuerdos o disfrutar de las instalaciones del alojamiento. A la hora acordada, traslado al aeropuerto.",
-                            "en": "Free morning to explore Puerto Iguazu, buy souvenirs, or enjoy the accommodation facilities. At the agreed time, transfer to the airport.",
-                            "he": "בוקר חופשי לחקור את פוארטו איגואסו, לקנות מזכרות או ליהנות ממתקני הלינה. בזמן שנקבע, העברה לשדה התעופה."
-                        }
-                    }
-                ]
-            }
+            ]
         }
     ]
 }

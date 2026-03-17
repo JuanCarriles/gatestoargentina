@@ -7,13 +7,13 @@
     "contact": "Contact"
   },
   "hero": {
-    "title": "Gates to Argentina",
+    "title": "Gates To Argentina",
     "subtitle": "Personalized Tourism Services",
     "text": "Custom designed experiences. We create exclusive and group trips so you can discover the authentic essence of Argentina.",
     "cta": "Plan Your Trip"
   },
   "modules": {
-    "title": "Our Travel Perls",
+    "title": "Our Travel Pearls",
     "subtitle": "Carefully designed experiences for personalized trips.",
     "cta": "View Details",
     "days": "Days",
@@ -22,6 +22,7 @@
     "downloadItinerary": "Download Full Itinerary",
     "mainAttractions": "Main Attractions",
     "dailyItinerary": "Example of itinerary",
+    "travelLocation": "Destination Included",
     "travelLocations": "Destinations Included",
     "tripOverview": "Trip Overview",
     "whatsIncluded": "What's Included",
@@ -225,12 +226,12 @@
     "insuranceDesc": "Full coverage included"
   },
   "about": {
-    "title": "Born and raised in Argentina",
-    "description1": "Hola, I am Gloria Pais, the founder of Gates to Argentina, a boutique travel agency dedicated to creating personalized journeys across one of South America's most fascinating destinations.",
+    "title": "Born and raised in Argentina. Backed by Global Expertise.",
+    "description1": "Hola, I am Gloria Pais, the founder of Gates To Argentina, a boutique travel agency dedicated to creating personalized journeys across one of South America's most fascinating destinations.",
     "description2": "My background in tourism is international.",
     "description3": "For more than fifteen years, I led tour operations in the Middle East through Gates to Israel, coordinating over 500 groups and developing extensive expertise in travel logistics, group management, and delivering high-quality service.",
-    "description4": "Today, Gates to Argentina operates with offices in Argentina and Israel, offering trilingual service in Spanish, English, and Hebrew, along with 24/7 support to ensure that every journey runs smoothly from beginning to end.",
-    "description5": "With the launch of Gates to Argentina, I brought this global experience back home, focusing on designing thoughtfully crafted itineraries that combine culture, adventure, and comfort while showcasing the authentic beauty and diversity of Argentina.",
+    "description4": "Today, Gates To Argentina operates with offices in Argentina and Israel, offering trilingual service in Spanish, English, and Hebrew, along with 24/7 support to ensure that every journey runs smoothly from beginning to end.",
+    "description5": "With the launch of Gates To Argentina, I brought this global experience back home, focusing on designing thoughtfully crafted itineraries that combine culture, adventure, and comfort while showcasing the authentic beauty and diversity of Argentina.",
     "description6": "Join me and my team and let us open the Gates to the very best of Argentina.",
     "list1": "Languages: Spanish, English, Hebrew",
     "list2": "Experience: +15 Years in the tourism industry",
@@ -241,12 +242,8 @@
   },
   "testimonials": {
     "title": "What our travelers say",
-    "testimonial1": "An unforgettable experience. From Israel to the end of the world, everything perfectly organized.",
-    "author1": "Cohen Family, Tel Aviv",
-    "testimonial2": "The best trip of our lives. Patagonia is magical and the team made everything impeccable.",
-    "author2": "Jerusalem Group, Haifa",
-    "testimonial3": "Excellent service in Hebrew, we felt at home in Argentina.",
-    "author3": "Levy Family, Beer Sheva"
+    "testimonial1": "I was immediately impressed by Ms. Pais’ professionalism and communication skills... and her warm friendly manner. Her response and subsequent actions on my behalf exceeded the excellent service she provided to me in 2019. She took care of everything and kept me informed and provided many opportunities to customize the tour to my preferences. The few things I requested were regarded as priorities and everything else was perfect. I am happy to provide an unqualified and enthusiastic recommendation for Ms. Gloria Pais and Gates to Argentina.",
+    "author1": "Satisfied Traveler"
   },
   "socialMedia": {
     "title": "Visit Us on Social Media",
@@ -280,7 +277,8 @@
     }
   },
   "footer": {
-    "description": "Specializing in customized programs with 24/7 bilingual support. We bring the warmth of Argentina to travelers.",
+    "description1": "Specializing in customized programs with 24/7 bilingual support.",
+    "description2": "We bring the warmth of Argentina to travelers.",
     "quickLinks": "Quick Links",
     "destinations": "Destinations",
     "contact": "Contact",

@@ -48,14 +48,17 @@ export default function Footer({ modules }: FooterProps) {
                         <Link href={`/${locale}#home`} className="flex items-center gap-2 mb-6">
                             <Image
                                 src="/images/LOGO-DEFINITIVO.png"
-                                alt="Gates to Argentina - Travel agency for Argentina vacation packages"
+                                alt="Gates To Argentina - Travel agency for Argentina vacation packages"
                                 width={180}
                                 height={48}
                                 className="h-12 w-auto object-contain"
                             />
                         </Link>
+                        <p className="text-white/70 leading-relaxed mb-2" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}>
+                            {t('footer.description1')}
+                        </p>
                         <p className="text-white/70 leading-relaxed mb-6" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}>
-                            {t('footer.description')}
+                            {t('footer.description2')}
                         </p>
                         <div className="flex gap-3">
                             {socialLinks.map((social) => (
@@ -111,40 +114,39 @@ export default function Footer({ modules }: FooterProps) {
                         </ul>
                     </div>
 
-                    <div>
-                        <h4 className="text-lg font-semibold mb-6 text-white/90" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}>
+                    <div className="flex flex-col gap-5">
+                        <h4 className="text-lg font-semibold text-white/90" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}>
                             {t('footer.contact')}
                         </h4>
-                        <ul className="space-y-4">
-                            <li className="flex items-start gap-3">
-                                <MapPin className="w-5 h-5 text-[#7cb2dd] flex-shrink-0 mt-0.5" />
-                                <div className="text-white/70 text-sm" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}>
-                                    <p className="font-medium text-white">{t('contact.offices.argentina')}</p>
-                                    <p>{t('contact.offices.argentinaLocation')}</p>
-                                    <p>{t('contact.offices.argentinaPhone')}</p>
-                                </div>
-                            </li>
 
-                            <li className="flex items-center gap-3">
-                                <Mail className="w-5 h-5 text-[#7cb2dd] flex-shrink-0" />
-                                <a
-                                    href="mailto:gloria@gatestoargentina.com"
-                                    className="text-white/70 hover:text-[#7cb2dd] transition-colors duration-300 text-sm"
-                                    style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}
-                                >
-                                    gloria@gatestoargentina.com
-                                </a>
-                            </li>
+                        <div className="flex items-start gap-3">
+                            <MapPin className="w-5 h-5 text-[#7cb2dd] flex-shrink-0 mt-0.5" />
+                            <div className="text-white/70 text-sm" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}>
+                                <p className="font-medium text-white">{t('contact.offices.argentina')}</p>
+                                <p>{t('contact.offices.argentinaLocation')}</p>
+                                <p>{t('contact.offices.argentinaPhone')}</p>
+                            </div>
+                        </div>
 
-                            <li className="flex items-start gap-3">
-                                <MapPin className="w-5 h-5 text-[#7cb2dd] flex-shrink-0 mt-0.5" />
-                                <div className="text-white/70 text-sm" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}>
-                                    <p className="font-medium text-white">{t('contact.offices.israel')}</p>
-                                    <p>{t('contact.offices.israelLocation')}</p>
-                                    <p>{t('contact.offices.israelPhone')}</p>
-                                </div>
-                            </li>
-                        </ul>
+                        <div className="flex items-center gap-3">
+                            <Mail className="w-5 h-5 text-[#7cb2dd] flex-shrink-0" />
+                            <a
+                                href="mailto:gloria@gatestoargentina.com"
+                                className="text-white/70 hover:text-[#7cb2dd] transition-colors duration-300 text-sm"
+                                style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}
+                            >
+                                gloria@gatestoargentina.com
+                            </a>
+                        </div>
+
+                        <div className="flex items-start gap-3">
+                            <MapPin className="w-5 h-5 text-[#7cb2dd] flex-shrink-0 mt-0.5" />
+                            <div className="text-white/70 text-sm" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}>
+                                <p className="font-medium text-white">{t('contact.offices.israel')}</p>
+                                <p>{t('contact.offices.israelLocation')}</p>
+                                <p>{t('contact.offices.israelPhone')}</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -153,7 +155,7 @@ export default function Footer({ modules }: FooterProps) {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
                     <div className="flex flex-col md:flex-row justify-between items-center gap-4">
                         <p className="text-white/50 text-sm" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}>
-                            © 2026 Gates to Argentina. {t('footer.rights')}
+                            Gates To Argentina
                         </p>
                     </div>
                 </div>

@@ -1,0 +1,996 @@
+Gates To Argentina - WEBSITE CONTENT
+Document for client review
+Date: March 16, 2026
+================================================================================
+
+SECTION: NAVIGATION BAR
+================================================================================
+[EN] Home | Destinations | Services | About Us | Contact
+[ES] Inicio | Destinos | Servicios | Nosotros | Contacto
+[HE] בית | יעדים | שירותים | עלינו | צור קשר
+
+SECTION: HERO (Main Banner)
+================================================================================
+Title:
+[EN] Gates To Argentina
+[ES] Gates To Argentina
+[HE] Gates To Argentina
+
+Subtitle:
+[EN] Personalized Tourism Services
+[ES] Servicios Turísticos Personalizados
+[HE] שירותי תיירות מותאמים אישית
+
+Text:
+[EN] Custom designed experiences. We create exclusive and group trips so you can discover the authentic essence of Argentina.
+[ES] Experiencias diseñadas a medida. Creamos viajes exclusivos y grupales para que descubras la auténtica esencia de Argentina.
+[HE] חוויות מעוצבות בהתאמה אישית. אנו יוצרים טיולים ייחודיים וקבוצות כך שתוכל לגלות את המהות האמיתית של ארגנטינה.
+
+CTA Button:
+[EN] Plan Your Trip
+[ES] Planificá tu Viaje
+[HE] תכנון את הטיול שלך
+
+SECTION: MODULES (Section Labels & UI Text)
+================================================================================
+Section Title:
+[EN] Our Travel Perls
+[ES] Nuestras perlas de Viaje
+[HE] פרלים הנסיעות שלנו
+
+Section Subtitle:
+[EN] Carefully designed experiences for personalized trips.
+[ES] Experiencias cuidadosamente diseñadas para viajes personalizados.
+[HE] חוויות שתוכננו בקפידה לטיולים מותאמים אישית.
+
+Customizable Title:
+[EN] Fully Customizable Experience
+[ES] Experiencia Totalmente Personalizable
+[HE] חוויה הניתנת להתאמה מלאה
+
+Customizable Message:
+[EN] This itinerary is a suggested experience. We can coordinate with you to modify the trip according to your needs and desires. We can offer additional services, duration adjustments, or different hotel categories.
+[ES] Este itinerario es una experiencia sugerida. Podemos coordinar contigo para modificar el viaje según tus necesidades y deseos. Podemos ofrecer servicios adicionales, cambios de duración o diferentes categorías de hoteles.
+[HE] מסלול זה הוא חוויה מוצעת. נוכל לתאם איתך לשנות את הטיול בהתאם לצרכים והרצונות שלך. נוכל להציע שירותים נוספים, שינויי משך או קטגוריות מלון שונות.
+
+No Itinerary Message:
+[EN] If you would like the full itinerary, please contact our team and we will send you a personalized one.
+[ES] Si deseas el itinerario completo, ponte en contacto con nuestro equipo y te enviaremos uno personalizado para ti.
+[HE] אם תרצו את המסלול המלא, אנא צרו קשר עם הצוות שלנו ונשלח לכם מסלול מותאם אישית.
+
+MODULE 1: NORTHWEST ARGENTINA EXPERIENCE
+================================================================================
+Name:
+[EN] Northwest Argentina Experience
+[ES] Experiencia Noroeste Argentino
+[HE] חוויית צפון מערב ארגנטינה
+
+Summary (card text):
+[EN] Explore the colorful mountains and rich cultural heritage of Salta and Jujuy
+[ES] Explorá las montañas de colores y la rica herencia cultural de Salta y Jujuy
+[HE] גלה את ההרים הצבעוניים והמורשת התרבותית העשירה של סלטה וחוחוי
+
+Full Description:
+[EN] Immerse yourself in the breathtaking landscapes of Argentina's northwest region. From the multicolored mountains of Purmamarca to the sprawling white salt flats of Salinas Grandes, this 8-day journey takes you through ancient indigenous cultures, colonial cities, and some of South America's most stunning natural wonders. Experience world-class high-altitude wines in Cafayate and walk through UNESCO World Heritage sites.
+[ES] Sumergite en los paisajes impresionantes del noroeste argentino. Desde las montañas multicolores de Purmamarca hasta las extensas salinas blancas de Salinas Grandes, este viaje de 8 días te lleva a través de culturas indígenas ancestrales, ciudades coloniales y algunas de las maravillas naturales más impactantes de Sudamérica. Experimentá vinos de altura de clase mundial en Cafayate y caminá por sitios declarados Patrimonio de la Humanidad por UNESCO.
+[HE] השקע במראות העוצרים נשימה של אזור צפון מערב ארגנטינה. מההרים הרב-צבעוניים של פורממרקה ועד מישורי המלח הלבנים של סלינס גרנדס, מסע בן 8 ימים דרך תרבויות עתיקות, ערים קולוניאליות ופלאי טבע מדהימים.
+
+Tag:
+[EN] Northwest Argentina
+[ES] Noroeste Argentino
+[HE] צפון מערב ארגנטינה
+
+Inquiry WhatsApp Text:
+[EN] Hello! I'm interested in learning more about the Northwest Argentina Experience module. Could you provide additional details about availability and pricing?
+[ES] ¡Hola! Me interesa conocer más sobre el módulo Experiencia Noroeste Argentino. ¿Podrían proporcionarme detalles adicionales sobre disponibilidad y precios?
+[HE] שלום! אני מעוניין לקבל מידע נוסף על מודול חוויית צפון מערב ארגנטינה. תוכלו לספק פרטים נוספים על זמינות ומחירים?
+
+  DESTINATIONS INCLUDED:
+------------------------------------------------------------
+  - [EN] Tucumán  [ES] Tucumán  [HE] טוקומן
+  - [EN] Salta  [ES] Salta  [HE] סלטה
+  - [EN] Jujuy  [ES] Jujuy  [HE] חוחוי
+
+  MAIN ATTRACTIONS:
+------------------------------------------------------------
+  Attraction:
+    Name:
+    [EN] Independence Square and Government House
+    [ES] Plaza de la Independencia y Casa de Gobierno
+    [HE] כיכר העצמאות ובית הממשלה
+    Description:
+    [EN] The heart of San Miguel de Tucumán, where the main square faces the Government Palace
+    [ES] El corazón de San Miguel de Tucumán, donde la plaza principal se enfrenta al Palacio de Gobierno
+    [HE] לב סן מיגל דה טוקומן, שם הכיכר הראשית פונה לארמון הממשלה
+
+  Attraction:
+    Name:
+    [EN] Historic House of Tucumán
+    [ES] Casa Histórica de Tucumán
+    [HE] הבית ההיסטורי של טוקומן
+    Description:
+    [EN] The historic site where the Argentine Declaration of Independence was signed in 1816
+    [ES] El lugar histórico donde se firmó la Declaración de la Independencia Argentina en 1816
+    [HE] האתר ההיסטורי שבו נחתמה הכרזת העצמאות הארגנטינאית ב-1816
+
+  Attraction:
+    Name:
+    [EN] Quilmes Ruins
+    [ES] Ruinas de Quilmes
+    [HE] חורבות קילמס
+    Description:
+    [EN] One of the most important and extensive pre-Columbian settlements in Argentina
+    [ES] Uno de los asentamientos precolombinos más importantes y extensos de Argentina
+    [HE] אחד מהיישובים הפרה-קולומביאניים החשובים והנרחבים בארגנטינה
+
+  Attraction:
+    Name:
+    [EN] Cafayate Wineries
+    [ES] Bodegas de Cafayate
+    [HE] יקבי קאפאייטה
+    Description:
+    [EN] Visit to vineyards famous for their Torrontés wines and unique high-altitude landscapes
+    [ES] Visita a viñedos famosos por sus vinos Torrontés y paisajes únicos de altura
+    [HE] ביקור בכרמים המפורסמים ביינות טורונטס ונופי גובה ייחודיים
+
+  Attraction:
+    Name:
+    [EN] Shell Quebrada
+    [ES] Quebrada de las Conchas
+    [HE] ערוץ הקונצ'ס
+    Description:
+    [EN] Spectacular scenic route with red rock canyons and unique geological formations
+    [ES] Espectacular ruta escénica con cañones de roca roja y formaciones geológicas únicas
+    [HE] מסלול נופי מרהיב עם קניוני סלע אדום ותצורות גיאולוגיות ייחודיות
+
+  Attraction:
+    Name:
+    [EN] Tilcara and Pucará de Tilcara
+    [ES] Tilcara y Pucará de Tilcara
+    [HE] טילקרה ופוקארה דה טילקרה
+    Description:
+    [EN] Explore the Pucará de Tilcara, an ancient pre-Inca fortress, and tour the vibrant town in the heart of the Quebrada
+    [ES] Explorá el Pucará de Tilcara, una antigua fortaleza preincaica, y recorré el vibrante pueblo situado en el corazón de la Quebrada
+    [HE] גלו את פוקארה דה טילקרה, מבצר קדום מתקופת טרום-האינקה, וסיירו בעיירה התוססת בלב הקברדה
+
+  Attraction:
+    Name:
+    [EN] Humahuaca Quebrada
+    [ES] Quebrada de Humahuaca
+    [HE] ערוץ הומאוואקה
+    Description:
+    [EN] World Heritage Site with historic villages, cobblestone streets and living culture
+    [ES] Patrimonio de la Humanidad con pueblos históricos, calles empedradas y cultura viva
+    [HE] אתר מורשת עולמית עם כפרים היסטוריים, רחובות מרוצפי אבן ותרבות חיה
+
+  Attraction:
+    Name:
+    [EN] Hornocal Mountain Range (14 Colors)
+    [ES] Serranía del Hornocal (14 Colores)
+    [HE] רכס הורנוקל (14 צבעים)
+    Description:
+    [EN] Stunning 14-colored mountain range located at over 4,300 meters altitude
+    [ES] Impresionante cadena montañosa de 14 colores ubicada a más de 4.300 metros de altura
+    [HE] רכס הרים מדהים בעל 14 צבעים הממוקם בגובה של למעלה מ-4,300 מטרים
+
+  Attraction:
+    Name:
+    [EN] Salinas Grandes
+    [ES] Salinas Grandes
+    [HE] סלינס גרנדס
+    Description:
+    [EN] One of the world's largest salt flats offering a dazzling white landscape
+    [ES] Uno de los salares más grandes del mundo que ofrece un paisaje blanco deslumbrante
+    [HE] אחד ממישורי המלח הגדולים בעולם המציע נוף לבן מסנוור
+
+  WHAT IS INCLUDED:
+------------------------------------------------------------
+  - [EN] Private transfers and logistics
+    [ES] Traslados privados y logística
+    [HE] העברות פרטיות ולוגיסטיקה
+  - [EN] Accommodation in selected hotels
+    [ES] Alojamiento en hoteles seleccionados
+    [HE] לינה במלונות נבחרים
+  - [EN] Professional guides and accompaniment
+    [ES] Guías profesionales y acompañamiento
+    [HE] מדריכים מקצועיים וליווי
+  - [EN] Welcome dinner and selected meals
+    [ES] Cena de bienvenida y comidas seleccionadas
+    [HE] ארוחת ערב קבלת פנים וארוחות נבחרות
+  - [EN] Excursions and guided tours
+    [ES] Excursiones y visitas guiadas
+    [HE] טיולים וסיורים מודרכים
+  - [EN] Entrance fees to parks and museums
+    [ES] Entradas a parques y museos
+    [HE] כניסה לפארקים ומוזיאונים
+
+  ITINERARY:
+------------------------------------------------------------
+  Day 1:
+    Title:
+    [EN] Arrival in Tucumán and Welcome
+    [ES] Llegada a Tucumán y Bienvenida
+    [HE] הגעה לטוקומן וקבלת פנים
+    Description:
+    [EN] Airport pickup, hotel transfer and welcome dinner to present the program
+    [ES] Recepción en el aeropuerto, traslado al hotel y cena de bienvenida para presentar el programa
+    [HE] איסוף מהשדה התעופה, העברה למלון וארוחת ערב קבלת פנים להצגת התוכנית
+
+  Day 2:
+    Title:
+    [EN] Historical City Tour and San Javier
+    [ES] City Tour Histórico y San Javier
+    [HE] סיור עירוני היסטורי וסן חווייר
+    Description:
+    [EN] Visit to the Historic House and Independence Square, followed by a tour of San Javier Hill
+    [ES] Visita a la Casa Histórica y Plaza Independencia, seguido de un recorrido por el Cerro San Javier
+    [HE] ביקור בבית ההיסטורי וכיכר העצמאות, ולאחר מכן סיור בגבעת סן חווייר
+
+  Day 3:
+    Title:
+    [EN] Calchaquí Valleys: Tafí and Amaicha
+    [ES] Valles Calchaquíes: Tafí y Amaicha
+    [HE] עמקי קאלצ'אקי: טאפי ואמאיצ'ה
+    Description:
+    [EN] Journey through the valleys with stops in Tafí del Valle and the Pachamama Museum in Amaicha
+    [ES] Viaje a través de los valles con paradas en Tafí del Valle y el Museo de la Pachamama en Amaicha
+    [HE] מסע בעמקים עם עצירות בטאפי דל יילה ומוזיאון הפאצ'אמאמה באמאיצ'ה
+
+  Day 4:
+    Title:
+    [EN] Quilmes Ruins and Wines in Cafayate
+    [ES] Ruinas de Quilmes y Vinos en Cafayate
+    [HE] חורבות קילמס ויינות בקאפאייטה
+    Description:
+    [EN] Exploration of Quilmes Ruins and visit to a winery in Cafayate with countryside lunch. Followed by a guided introduction to Cafayate's history
+    [ES] Exploración de las Ruinas de Quilmes y visita a una bodega en Cafayate con almuerzo campestre. Seguido de una introducción guiada a la historia de Cafayate
+    [HE] חקר חורבות קילמס וביקור ביקב בקאפאייטה עם ארוחת צהריים כפרית. ולאחר מכן מבוא מודרך להיסטוריה של קאפאייטה
+
+  Day 5:
+    Title:
+    [EN] Shell Quebrada and arrival in Salta
+    [ES] Quebrada de las Conchas y llegada a Salta
+    [HE] ערוץ הקונצ'ס והגעה לסלטה
+    Description:
+    [EN] Tour through the rock formations of the Shell Quebrada and arrival in Salta city, known as 'La Linda'
+    [ES] Recorrido por las formaciones rocosas de la Quebrada de las Conchas y llegada a la ciudad de Salta, conocida como 'La Linda'
+    [HE] סיור בתצורות הסלע של ערוץ הקונצ'ס והגעה לעיר סלטה, המכונה 'לה לינדה'
+
+  Day 6:
+    Title:
+    [EN] To Jujuy: Purmamarca and Tilcara
+    [ES] Hacia Jujuy: Purmamarca y Tilcara
+    [HE] לחוחוי: פורמאמרקה וטילקרה
+    Description:
+    [EN] Visit to the Hill of 7 Colors in Purmamarca and Pucará de Tilcara heading north
+    [ES] Visita al Cerro de los 7 Colores en Purmamarca y el Pucará de Tilcara rumbo al norte
+    [HE] ביקור בגבעת 7 הצבעים בפורמאמרקה ובפוקארה דה טילקרה בדרך צפונה
+
+  Day 7:
+    Title:
+    [EN] Hornocal Mountain Range and Humahuaca
+    [ES] Serranía del Hornocal y Humahuaca
+    [HE] רכס הורנוקל והומאוואקה
+    Description:
+    [EN] Excursion to the Hornocal viewpoint (14 colors) and tour of the historic town of Humahuaca
+    [ES] Excursión al mirador del Hornocal (14 colores) y recorrido por el pueblo histórico de Humahuaca
+    [HE] טיול לנקודת התצפית של הורנוקל (14 צבעים) וסיור בעיירה ההיסטורית הומאוואקה
+
+  Day 8:
+    Title:
+    [EN] Salinas Grandes and Return
+    [ES] Salinas Grandes y Retorno
+    [HE] סלינס גרנדס וחזרה
+    Description:
+    [EN] Visit to the impressive Salinas Grandes, return to Jujuy and flight back from Tucumán
+    [ES] Visita a las impresionantes Salinas Grandes, retorno a Jujuy y vuelo de regreso desde Tucumán
+    [HE] ביקור בסלינס גרנדס המרשימה, חזרה לחוחוי וטיסה חזרה מטוקומן
+
+
+MODULE 2: BUENOS AIRES CULTURAL IMMERSION
+================================================================================
+Name:
+[EN] Buenos Aires Cultural Immersion
+[ES] Inmersión Cultural Buenos Aires
+[HE] טבילה תרבותית בבואנוס איירס
+
+Summary (card text):
+[EN] Discover the Paris of South America - tango, architecture, and gastronomy. 
+[ES] Descubrí la París de Sudamérica - tango, arquitectura y gastronomía. 
+[HE] גלה את פריז של דרום אמריקה - טנגו, ארכיטקטורה וגסטרונומיה
+
+Full Description:
+[EN] Experience the vibrant energy of Buenos Aires, a city where European elegance meets Latin American passion. This 4-day cultural immersion will take you through historic neighborhoods like San Telmo and La Boca, where tango was born. Enjoy world-class steaks and Malbec wine, explore stunning French-inspired architecture in Recoleta, and experience the nightlife in trendy Palermo. This is Argentina's cosmopolitan heart.
+[ES] Experimentá la energía vibrante de Buenos Aires, una ciudad donde la elegancia europea se encuentra con la pasión latinoamericana. Esta inmersión cultural de 4 días te llevará por barrios históricos como San Telmo y La Boca, donde nació el tango. Disfrutá de carnes y vino Malbec de clase mundial, explorá la impresionante arquitectura de inspiración francesa en Recoleta, y viví la vida nocturna en el trendy Palermo. Este es el corazón cosmopolita de Argentina.
+[HE] חוו את האנרגיה התוססת של בואנוס איירס, עיר שבה האלגנטיות האירופית פוגשת את התשוקה הלטינו-אמריקאית. טבילה תרבותית זו בת 4 ימים תיקח אתכם דרך שכונות היסטוריות כמו סן טלמו ולה בוקה, שם נולד הטנגו.
+
+Tag:
+[EN] Buenos Aires
+[ES] Buenos Aires
+[HE] בואנוס איירס
+
+Inquiry WhatsApp Text:
+[EN] Hello! I'd like to know more about the Buenos Aires Cultural Immersion module. What dates are available and what's included in the package?
+[ES] ¡Hola! Me gustaría saber más sobre el módulo Inmersión Cultural Buenos Aires. ¿Qué fechas están disponibles y qué incluye el paquete?
+[HE] שלום! ארצה לדעת עוד על מודול הטבילה התרבותית בבואנוס איירס. אילו תאריכים זמינים ומה כלול בחבילה?
+
+  DESTINATIONS INCLUDED:
+------------------------------------------------------------
+  - [EN] Buenos Aires  [ES] Buenos Aires  [HE] בואנוס איירס
+
+  MAIN ATTRACTIONS:
+------------------------------------------------------------
+  Attraction:
+    Name:
+    [EN] Plaza de Mayo and Casa Rosada
+    [ES] Plaza de Mayo y Casa Rosada
+    [HE] פלאזה דה מאיו והבית הוורוד
+    Description:
+    [EN] The symbolic heart of Argentine history, surrounded by the Casa Rosada, the Cabildo and the Metropolitan Cathedral
+    [ES] El corazón simbólico de la historia argentina, rodeado por la Casa Rosada, el Cabildo y la Catedral Metropolitana
+    [HE] הלב הסמלי של ההיסטוריה הארגנטינאית, מוקף בבניין הנשיאות, הקבילדו והקתדרלה המטרופולינית
+
+  Attraction:
+    Name:
+    [EN] Colón Theatre
+    [ES] Teatro Colón
+    [HE] תיאטרון קולון
+    Description:
+    [EN] Guided tour of one of the world's most spectacular opera houses for its acoustics and architecture
+    [ES] Visita guiada a uno de los teatros de ópera más espectaculares del mundo por su acústica y arquitectura
+    [HE] סיור מודרך באחד מבתי האופרה המרהיבים בעולם בזכות האקוסטיקה והארכיטקטורה שלו
+
+  Attraction:
+    Name:
+    [EN] Barolo Palace
+    [ES] Palacio Barolo
+    [HE] ארמון בארולו
+    Description:
+    [EN] A fascinating building inspired by Dante's Divine Comedy, with panoramic views of the city
+    [ES] Un edificio fascinante inspirado en la Divina Comedia de Dante, con vistas panorámicas de la ciudad
+    [HE] בניין מרתק בהשראת הקומדיה האלוהית של דנטה, עם נוף פנורמי של העיר
+
+  Attraction:
+    Name:
+    [EN] Caminito and La Boca
+    [ES] Caminito y La Boca
+    [HE] קמיניטו ולה בוקה
+    Description:
+    [EN] Open-air museum famous for its colorful houses, artisan stalls and live tango dancers
+    [ES] Museo a cielo abierto famoso por sus casas coloridas, puestos de artesanos y bailarines de tango en vivo
+    [HE] מוזיאון באוויר הפתוח המפורסם בבתים הצבעוניים שלו, דוכני אומנים ורקדני טנגו חיים
+
+  Attraction:
+    Name:
+    [EN] La Bombonera Stadium
+    [ES] Estadio La Bombonera
+    [HE] אצטדיון לה בומבונרה
+    Description:
+    [EN] The mythical Boca Juniors stadium, world-famous for its unique shape and the vibrant passion of its fans.
+    [ES] El mítico estadio de Boca Juniors, mundialmente famoso por su forma única y la pasión vibrante de su hinchada.
+    [HE] האצטדיון המיתולוגי של בוקה ג'וניורס, מפורסם בעולם בצורתו הייחודית ובתשוקת האוהדים שלו.
+
+  Attraction:
+    Name:
+    [EN] National Historical Museum (Parque Lezama)
+    [ES] Museo Histórico Nacional (Parque Lezama)
+    [HE] המוזיאון ההיסטורי הלאומי (פארק לזמה)
+    Description:
+    [EN] Located in a historic mansion, it exhibits key objects from the May Revolution and the War of Independence.
+    [ES] Ubicado en una mansión histórica, exhibe objetos clave de la Revolución de Mayo y la Guerra de la Independencia.
+    [HE] ממוקם באחוזה היסטורית, מציג חפצים מרכזיים ממהפכת מאי ומלחמת העצמאות.
+
+  Attraction:
+    Name:
+    [EN] MALBA
+    [ES] MALBA
+    [HE] מאלבה
+    Description:
+    [EN] Museum of Latin American Art of Buenos Aires, home to works by Frida Kahlo, Diego Rivera and other masters
+    [ES] Museo de Arte Latinoamericano de Buenos Aires, hogar de obras de Frida Kahlo, Diego Rivera y otros maestros
+    [HE] מוזיאון האמנות הלטינו-אמריקאית של בואנוס איירס, ביתם של יצירות של פרידה קאלו, דייגו ריברה ואמנים נוספים
+
+  Attraction:
+    Name:
+    [EN] Recoleta Cemetery
+    [ES] Cementerio de la Recoleta
+    [HE] בית הקברות של רקולטה
+    Description:
+    [EN] A monumental labyrinth of mausoleums, resting place of Eva Perón and Argentine historical figures
+    [ES] Un laberinto monumental de mausoleos, lugar de descanso de Eva Perón y figuras históricas argentinas
+    [HE] מבוך מונומנטלי של מאוזוליאומים, מקום המנוחה של אווה פרון ודמויות היסטוריות ארגנטינאיות
+
+  WHAT IS INCLUDED:
+------------------------------------------------------------
+  - [EN] Private transfers mentioned in itinerary
+    [ES] Traslados privados mencionados en itinerario
+    [HE] העברות פרטיות המוזכרות במסלול
+  - [EN] Professional guides for tours
+    [ES] Guías profesionales para los tours
+    [HE] מדריכים מקצועיים לסיורים
+  - [EN] Entrance to museums and suggested sites
+    [ES] Entradas a museos y sitios sugeridos
+    [HE] כניסה למוזיאונים ואתרים מומלצים
+  - [EN] Assistance with dinner and show reservations
+    [ES] Asesoramiento para reservas de cenas y shows
+    [HE] סיוע בהזמנות לארוחות ערב והצגות
+
+  ITINERARY:
+------------------------------------------------------------
+  Day 1:
+    Title:
+    [EN] The Historical Heart of Argentina
+    [ES] El Corazón Histórico de Argentina
+    [HE] הלב ההיסטורי של ארגנטינה
+    Description:
+    [EN] Walking tour of Plaza de Mayo, visit to Casa Rosada and Cathedral. Walk along Av. de Mayo, visit to Teatro Colón and coffee at the historic Café Tortoni
+    [ES] Walking tour por Plaza de Mayo, visita a la Casa Rosada y Catedral. Paseo por Av. de Mayo, visita al Teatro Colón y café en el histórico Café Tortoni
+    [HE] סיור רגלי בפלאזה דה מאיו, ביקור בבית הוורוד ובקתדרלה. טיול בשדרת דה מאיו, ביקור בתיאטרון קולון וקפה בקפה טורטוני ההיסטורי
+
+  Day 2:
+    Title:
+    [EN] Architecture and National Monuments
+    [ES] Arquitectura y Monumentos Nacionales
+    [HE] ארכיטקטורה ואנדרטאות לאומיות
+    Description:
+    [EN] Guided tour of Palacio Barolo (inspired by the Divine Comedy), National Congress and the National Historical Museum in Parque Lezama. Evening in San Telmo
+    [ES] Visita guiada al Palacio Barolo (inspirado en la Divina Comedia), Congreso de la Nación y el Museo Histórico Nacional en Parque Lezama. Noche en San Telmo
+    [HE] סיור מודרך בארמון בארולו (בהשראת הקומדיה האלוהית), הקונגרס הלאומי והמוזיאון ההיסטורי הלאומי בפארק לזמה. ערב בסן טלמו
+
+  Day 3:
+    Title:
+    [EN] Art and Culture: La Boca and Palermo
+    [ES] Arte y Cultura: La Boca y Palermo
+    [HE] אמנות ותרבות: לה בוקה ופלרמו
+    Description:
+    [EN] Tour of Caminito and La Bombonera stadium. Transfer to Palermo to visit MALBA. In the evening, Tango dinner show (optional)
+    [ES] Recorrido por Caminito y el estadio La Bombonera. Traslado a Palermo para visitar el MALBA. Por la noche, cena show de Tango (opcional)
+    [HE] סיור בקמיניטו ובאצטדיון לה בומבונרה. העברה לפלרמו לביקור במאלבה. בערב, מופע ארוחת טנגו (אופציונלי)
+
+  Day 4:
+    Title:
+    [EN] Recoleta: History and Legacy
+    [ES] Recoleta: Historia y Legado
+    [HE] רקולטה: היסטוריה ומורשת
+    Description:
+    [EN] Guided tour of Recoleta Cemetery and Basilica del Pilar. Free time for shopping at the artisan fair or the Cultural Center
+    [ES] Visita guiada al Cementerio de la Recoleta y la Basílica del Pilar. Tiempo libre para compras en la feria artesanal o el Centro Cultural
+    [HE] סיור מודרך בבית הקברות של רקולטה ובבזיליקת דל פילאר. זמן פנוי לקניות ביריד האומנים או במרכז התרבות
+
+
+MODULE 3: CALAFATE & USHUAIA: GLACIERS AND END OF THE WORLD
+================================================================================
+Name:
+[EN] Calafate & Ushuaia: Glaciers and End of the World
+[ES] Calafate & Ushuaia: Glaciares y Fin del Mundo
+[HE] קלפטה ואושואיה: קרחונים וקצה העולם
+
+Summary (card text):
+[EN] Explore the best of Southern Patagonia
+[ES] Explora lo mejor de la Patagonia Austral
+[HE] מסע אל לב הפטגוניה האוסטרלית
+
+Full Description:
+[EN] From the imposing Perito Moreno Glacier and trekking in El Chaltén to the city at the End of the World, Ushuaia, with its Beagle Channel and National Park. A complete experience to discover millennial glaciers, imposing mountains, and the unique biodiversity of the southern tip of America.
+[ES] Desde el imponente Glaciar Perito Moreno y el trekking en El Chaltén, hasta la ciudad del Fin del Mundo, Ushuaia, con su Canal Beagle y Parque Nacional. Una experiencia completa para conocer glaciares milenarios, montañas imponentes y la biodiversidad única del extremo sur de América.
+[HE] מקרחון פריטו מורנו המרשים וטרקים באל צ'לטן ועד העיר בקצה העולם, אושואיה, עם תעלת ביגל והפארק הלאומי. חוויה מלאה לגלות קרחונים בני אלפי שנים, הרים מרשימים והמגוון הביולוגי הייחודי של קצה דרום אמריקה.
+
+Tag:
+[EN] Southern Patagonia
+[ES] Patagonia Austral
+[HE] פטגוניה דרומית
+
+Inquiry WhatsApp Text:
+[EN] Hello! I'm interested in the Calafate & Ushuaia module. Could you provide more information about this Southern Patagonia trip?
+[ES] ¡Hola! Me interesa el módulo Calafate & Ushuaia. ¿Podrían brindarme más información sobre este viaje a la Patagonia Austral?
+[HE] שלום! אני מעוניין במודול קלפטה ואושואיה. תוכלו לספק מידע נוסף על הטיול הזה לפטגוניה הדרומית?
+
+  DESTINATIONS INCLUDED:
+------------------------------------------------------------
+  - [EN] El Calafate  [ES] El Calafate  [HE] אל קלאפטה
+  - [EN] Ushuaia  [ES] Ushuaia  [HE] אושואיה
+
+  MAIN ATTRACTIONS:
+------------------------------------------------------------
+  Attraction:
+    Name:
+    [EN] Perito Moreno Glacier
+    [ES] Glaciar Perito Moreno
+    [HE] קרחון פריטו מורנו
+    Description:
+    [EN] Walk along the walkways facing the glacier and optional sailing along the southern wall
+    [ES] Caminata por las pasarelas frente al glaciar y navegación opcional frente a la pared sur
+    [HE] הליכה לאורך השבילים מול הקרחון ושיוט אופציונלי לאורך הקיר הדרומי
+
+  Attraction:
+    Name:
+    [EN] Mount Fitz Roy and Laguna de los Tres
+    [ES] Monte Fitz Roy y Laguna de los Tres
+    [HE] הר פיץ רוי ולגונה דה לוס טרס
+    Description:
+    [EN] The most iconic trek in the area, offering spectacular views of Mount Fitz Roy
+    [ES] El trekking más icónico de la zona, ofreciendo vistas espectaculares del cerro Fitz Roy
+    [HE] הטרק האיקוני ביותר באזור, המציע נופים מרהיבים של הר פיץ רוי
+
+  Attraction:
+    Name:
+    [EN] Laguna Nimez Reserve
+    [ES] Reserva Laguna Nimez
+    [HE] שמורת לגונה נימז
+    Description:
+    [EN] Natural reserve ideal for birdwatching at sunset in El Calafate
+    [ES] Reserva natural ideal para el avistamiento de aves al atardecer en El Calafate
+    [HE] שמורת טבע אידיאלית לצפייה בציפורים בשקיעה באל קלאפטה
+
+  Attraction:
+    Name:
+    [EN] Mythical Route 40
+    [ES] Mítica Ruta 40
+    [HE] כביש 40 המיתולוגי
+    Description:
+    [EN] A scenic journey through the immense Patagonian steppe, connecting stories, glaciers, and infinite horizons.
+    [ES] Un viaje escénico a través de la inmensa estepa patagónica, conectando historias, glaciares y horizontes infinitos.
+    [HE] מסע נופי דרך הערבה הפטגונית העצומה, המחבר בין סיפורים, קרחונים ואופקים אינסופיים.
+
+  Attraction:
+    Name:
+    [EN] Laguna Torre
+    [ES] Laguna Torre
+    [HE] לגונה טורה
+    Description:
+    [EN] An impressive glacial lagoon where icebergs often float, located at the foot of the massif.
+    [ES] Una impresionante laguna de origen glaciar donde a menudo flotan témpanos de hielo, ubicada a los pies del macizo.
+    [HE] לגונה קרחונית מרשימה שבה צפים לעתים קרובות קרחונים, ממוקמת למרגלות המסיב.
+
+  Attraction:
+    Name:
+    [EN] Cerro Torre
+    [ES] Cerro Torre
+    [HE] סרו טורה
+    Description:
+    [EN] One of the most beautiful and difficult mountains to climb in the world, famous for its sharp granite spire touching the sky.
+    [ES] Una de las montañas más bellas y difíciles de escalar del mundo, famosa por su aguda aguja de granito que toca el cielo.
+    [HE] אחד ההרים היפים והקשים לטיפוס בעולם, המפורסם בצריח הגרניט החד שלו הנוגע בשמיים.
+
+  Attraction:
+    Name:
+    [EN] Tierra del Fuego National Park
+    [ES] Parque Nacional Tierra del Fuego
+    [HE] הפארק הלאומי טיירה דל פואגו
+    Description:
+    [EN] Exploration of Lapataia Bay, coastal trails and beaver dams at the end of the world
+    [ES] Exploración de Bahía Lapataia, senderos costeros y castoreras en el fin del mundo
+    [HE] חקר מפרץ לפטאיה, שבילי חוף וסכרי בונים בקצה העולם
+
+  Attraction:
+    Name:
+    [EN] Beagle Channel
+    [ES] Canal Beagle
+    [HE] תעלת ביגל
+    Description:
+    [EN] Sailing to observe sea lions, cormorants and the famous Les Éclaireurs lighthouse
+    [ES] Navegación para observar lobos marinos, cormoranes y el famoso faro Les Éclaireurs
+    [HE] שיט לצפייה באריות ים, קורמורנים ומגדלור Les Éclaireurs המפורסם
+
+  Attraction:
+    Name:
+    [EN] Maritime and Prison Museum
+    [ES] Museo Marítimo y del Presidio
+    [HE] מוזיאון ימי ובית הסוהר
+    Description:
+    [EN] Historical visit to the old Ushuaia prison
+    [ES] Visita histórica a la antigua cárcel de Ushuaia
+    [HE] ביקור היסטורי בבית הכלא הישן של אושואיה
+
+  WHAT IS INCLUDED:
+------------------------------------------------------------
+  - [EN] Accommodation in El Calafate, El Chaltén and Ushuaia
+    [ES] Alojamiento en El Calafate, El Chaltén y Ushuaia
+    [HE] לינה באל קלאפטה, אל צ'לטן ואושואיה
+  - [EN] Land transfers and domestic flights (subject to availability)
+    [ES] Traslados terrestres y vuelos internos (según disponibilidad)
+    [HE] העברות יבשתיות וטיסות פנים (בכפוף לזמינות)
+  - [EN] Excursions mentioned in the itinerary
+    [ES] Excursiones mencionadas en el itinerario
+    [HE] טיולים המוזכרים במסלול
+  - [EN] Specialized mountain and national park guides
+    [ES] Guías especializados en montaña y parques nacionales
+    [HE] מדריכים מומחים בהרים ופארקים לאומיים
+
+  ITINERARY:
+------------------------------------------------------------
+  Day 1:
+    Title:
+    [EN] Arrival in El Calafate
+    [ES] Llegada a El Calafate
+    [HE] הגעה לאל קלאפטה
+    Description:
+    [EN] Arrival and city tour. Visit to Laguna Nimez Reserve for bird watching at sunset
+    [ES] Llegada y paseo por la ciudad. Visita a la Reserva Laguna Nimez para avistamiento de aves al atardecer
+    [HE] הגעה וסיור בעיר. ביקור בשמורת לגונה נימז לצפייה בציפורים בשקיעה
+
+  Day 2:
+    Title:
+    [EN] Perito Moreno Glacier
+    [ES] Glaciar Perito Moreno
+    [HE] קרחון פריטו מורנו
+    Description:
+    [EN] Transfer to Los Glaciares National Park. Tour of the panoramic walkways and optional sailing
+    [ES] Traslado al Parque Nacional Los Glaciares. Recorrido por las pasarelas panorámicas y navegación opcional
+    [HE] העברה לפארק הלאומי לוס גלאסיארס. סיור בשבילים הפנורמיים ושיט אופציונלי
+
+  Day 3:
+    Title:
+    [EN] Route to El Chaltén
+    [ES] Ruta hacia El Chaltén
+    [HE] מסלול לאל צ'לטן
+    Description:
+    [EN] Journey along Route 40 with a historic stop at La Leona. Arrival at the trekking capital and short hike to the Condor Viewpoint
+    [ES] Viaje por la Ruta 40 con parada histórica en La Leona. Llegada a la capital del trekking y caminata corta al Mirador de los Cóndores
+    [HE] מסע לאורך כביש 40 עם עצירה היסטורית בלה לאונה. הגעה לבירת הטרקים וטיול קצר לנקודת התצפית של הקונדורים
+
+  Day 4:
+    Title:
+    [EN] Trekking in El Chaltén
+    [ES] Trekking en El Chaltén
+    [HE] טרק באל צ'לטן
+    Description:
+    [EN] Full day of hiking. Challenging option to Laguna de los Tres (Fitz Roy) or medium option to Laguna Capri
+    [ES] Día completo de caminata. Opción exigente a Laguna de los Tres (Fitz Roy) u opción media a Laguna Capri
+    [HE] יום מלא של הליכה. אפשרות מאתגרת ללגונה דה לוס טרס (פיץ רוי) או אפשרות בינונית ללגונה קפרי
+
+  Day 5:
+    Title:
+    [EN] Exploration of El Chaltén
+    [ES] Exploración de El Chaltén
+    [HE] חקר אל צ'לטן
+    Description:
+    [EN] Trekking to Laguna Torre or visit to Chorrillo del Salto waterfall. Optional: kayaking or horseback riding
+    [ES] Trekking a Laguna Torre o visita a la cascada Chorrillo del Salto. Opcionales: kayak o cabalgata
+    [HE] טרק ללגונה טור או ביקור במפל צ'ורילו דל סלטו. אופציונלי: שיט קיאק או רכיבה על סוסים
+
+  Day 6:
+    Title:
+    [EN] Flight to Ushuaia
+    [ES] Vuelo a Ushuaia
+    [HE] טיסה לאושואיה
+    Description:
+    [EN] Land return to El Calafate and flight to Ushuaia. Visit to the port and Maritime Museum (old prison)
+    [ES] Regreso terrestre a El Calafate y vuelo hacia Ushuaia. Visita al puerto y al Museo Marítimo (antiguo presidio)
+    [HE] חזרה יבשתית לאל קלאפטה וטיסה לאושואיה. ביקור בנמל ובמוזיאון הימי (בית כלא ישן)
+
+  Day 7:
+    Title:
+    [EN] Tierra del Fuego National Park
+    [ES] Parque Nacional Tierra del Fuego
+    [HE] הפארק הלאומי טיירה דל פואגו
+    Description:
+    [EN] Visit to Lapataia Bay and park trails. Option to take the End of the World Train
+    [ES] Visita a Bahía Lapataia y senderos del parque. Opción de tomar el Tren del Fin del Mundo
+    [HE] ביקור במפרץ לפטאיה ובשבילי הפארק. אפשרות לקחת את רכבת קצה העולם
+
+  Day 8:
+    Title:
+    [EN] Beagle Channel and Lakes Navigation
+    [ES] Navegación Canal Beagle y Lagos
+    [HE] שיט תעלת ביגל ואגמים
+    Description:
+    [EN] Sailing through the channel visiting the Les Éclaireurs lighthouse. In the afternoon, tour to Escondido and Fagnano lakes crossing Garibaldi Pass
+    [ES] Navegación por el canal visitando el faro Les Éclaireurs. Por la tarde, recorrido hacia los lagos Escondido y Fagnano cruzando el Paso Garibaldi
+    [HE] שיט בתעלה עם ביקור במגדלור Les Éclaireurs. אחר הצהריים, סיור לאגמים אסקונדידו ופגנאנו עם חציית מעבר גריבלדי
+
+  Day 9:
+    Title:
+    [EN] Farewell to Ushuaia
+    [ES] Despedida de Ushuaia
+    [HE] פרידה מאושואיה
+    Description:
+    [EN] Transfer to the airport for the return flight to Buenos Aires
+    [ES] Traslado al aeropuerto para el vuelo de regreso a Buenos Aires
+    [HE] העברה לשדה התעופה לטיסת החזרה לבואנוס איירס
+
+
+MODULE 4: IGUAZU FALLS
+================================================================================
+Name:
+[EN] Iguazu Falls
+[ES] Cataratas del Iguazú
+[HE] מפלי איגואסו
+
+Summary (card text):
+[EN] Discover the majesty of one of the 7 Natural Wonders of the World
+[ES] Descubrí la majestuosidad de una de las 7 Maravillas Naturales del Mundo
+[HE] גלו את ההוד של אחד מ-7 פלאי הטבע של העולם
+
+Full Description:
+[EN] Immerse yourself in the Misiones jungle to experience the force of nature. This trip will take you through the imposing Iguazu Falls from its walkways on the Argentine and Brazilian sides, culminating with the breathtaking view of the Devil's Throat. An unforgettable experience surrounded by subtropical flora and fauna.
+[ES] Sumergite en la selva misionera para vivir la fuerza de la naturaleza. Este viaje te llevará a recorrer las imponentes Cataratas del Iguazú desde sus pasarelas del lado argentino y brasileño, culminando con la sobrecogedora vista de la Garganta del Diablo. Una experiencia inolvidable rodeada de flora y fauna subtropical.
+[HE] השקעו את עצמכם בג'ונגל של מיסיונס כדי לחוות את כוחה של הטבע. הטיול ייקח אתכם דרך מפלי איגואסו המרשימים מהשבילים בצד הארגנטינאי והברזילאי, ויסתיים בנוף עוצר הנשימה של גרון השטן. חוויה בלתי נשכחת מוקפת בצמחייה ובעלי חיים סובטרופיים.
+
+Tag:
+[EN] Littoral
+[ES] Litoral
+[HE] אזור החוף
+
+Inquiry WhatsApp Text:
+[EN] Hello! I'm interested in learning more about the Iguazu Falls module. Could you provide details about availability and pricing?
+[ES] ¡Hola! Me interesa conocer más sobre el módulo de las Cataratas del Iguazú. ¿Podrían proporcionarme detalles sobre disponibilidad y precios?
+[HE] שלום! אני מעוניין לקבל מידע נוסף על מודול מפלי איגואסו. תוכלו לספק פרטים על זמינות ומחירים?
+
+  DESTINATIONS INCLUDED:
+------------------------------------------------------------
+  - [EN] Puerto Iguazu  [ES] Puerto Iguazú  [HE] פוארטו איגואסו
+
+  MAIN ATTRACTIONS:
+------------------------------------------------------------
+  Attraction:
+    Name:
+    [EN] Iguazu Falls - Argentine Side
+    [ES] Cataratas Del Iguazu - Lado Argentino
+    [HE] מפלי איגואסו - הצד הארגנטינאי
+    Description:
+    [EN] Tour of the upper and lower circuits to see the falls up close within the Iguazu National Park.
+    [ES] Recorrido por los circuitos superior e inferior para ver los saltos de cerca dentro del Parque Nacional Iguazú.
+    [HE] סיור במסלולים העליון והתחתון כדי לראות את המפלים מקרוב בתוך הפארק הלאומי איגואסו.
+
+  Attraction:
+    Name:
+    [EN] Devil's Throat
+    [ES] Garganta del Diablo
+    [HE] גרון השטן
+    Description:
+    [EN] The most impressive and voluminous fall in the park, accessible via the ecological train and walkways.
+    [ES] El salto más imponente y caudaloso del parque, accesible a través del tren ecológico y pasarelas.
+    [HE] המפל המרשים והשופע ביותר בפארק, נגיש באמצעות הרכבת האקולוגית והשבילים.
+
+  Attraction:
+    Name:
+    [EN] Three Borders Landmark
+    [ES] Hito Tres Fronteras
+    [HE] נקודת שלוש הגבולות
+    Description:
+    [EN] Emblematic panoramic point where the Iguazu and Parana rivers converge, allowing you to observe the coasts of Argentina, Brazil, and Paraguay.
+    [ES] Punto panorámico emblemático donde confluyen los ríos Iguazú y Paraná, permitiendo observar las costas de Argentina, Brasil y Paraguay.
+    [HE] נקודת תצפית פנורמית סמלית בה מתמזגים נהרות איגואסו ופרנה, ומאפשרת לצפות בחופי ארגנטינה, ברזיל ופרגוואי.
+
+  Attraction:
+    Name:
+    [EN] Hummingbird Garden
+    [ES] Jardín de los Picaflores
+    [HE] גן יונקי הדבש
+    Description:
+    [EN] A charming space in the city center dedicated to observing various species of hummingbirds in total freedom.
+    [ES] Un encantador espacio en el centro de la ciudad dedicado a la observación de diversas especies de colibríes en total libertad.
+    [HE] חלל מקסים במרכז העיר המוקדש לתצפית במינים שונים של יונקי דבש בחופשיות מוחלטת.
+
+  WHAT IS INCLUDED:
+------------------------------------------------------------
+  - [EN] Accommodation in Puerto Iguazu
+    [ES] Alojamiento en Puerto Iguazú
+    [HE] לינה בפוארטו איגואסו
+  - [EN] Transfers to airport and parks
+    [ES] Traslados al aeropuerto y parques
+    [HE] העברות לשדה התעופה ולפארקים
+  - [EN] National Parks entrance fees
+    [ES] Entradas a los Parques Nacionales
+    [HE] דמי כניסה לפארקים לאומיים
+  - [EN] Professional bilingual guides
+    [ES] Guías bilingües profesionales
+    [HE] מדריכים דו-לשוניים מקצועיים
+
+  ITINERARY:
+------------------------------------------------------------
+  Day 1:
+    Title:
+    [EN] Arrival and Sunset at the Three Borders
+    [ES] Llegada y Atardecer en las Tres Fronteras
+    [HE] הגעה ושקיעה בשלוש הגבולות
+    Description:
+    [EN] Airport reception and transfer to the hotel. In the afternoon, visit the charming Hummingbird Garden in the city and then enjoy the sunset at the Three Borders Landmark.
+    [ES] Recepción en el aeropuerto y traslado al hotel. Por la tarde, visita al encantador Jardín de los Picaflores en la ciudad y luego disfrutarás del atardecer en el Hito Tres Fronteras.
+    [HE] קבלת פנים בשדה התעופה והעברה למלון. אחר הצהריים, ביקור בגן יונקי הדבש המקסים בעיר ולאחר מכן תיהנו מהשקיעה בנקודת שלוש הגבולות.
+
+  Day 2:
+    Title:
+    [EN] Iguazu Falls Argentine Side and Devil's Throat
+    [ES] Cataratas Lado Argentino y Garganta del Diablo
+    [HE] מפלי איגואסו הצד הארגנטינאי וגרון השטן
+    Description:
+    [EN] Full day excursion touring the upper and lower circuits of the Iguazu National Park, culminating with the majestic Devil's Throat.
+    [ES] Excursión de día completo recorriendo los circuitos superior e inferior del Parque Nacional Iguazú, culminando con la majestuosa Garganta del Diablo.
+    [HE] טיול יום שלם בסיור במסלולים העליון והתחתון של הפארק הלאומי איגואסו, שמסתיים בגרון השטן המלכותי.
+
+  Day 3:
+    Title:
+    [EN] Free Morning and Farewell
+    [ES] Mañana Libre y Despedida
+    [HE] בוקר חופשי ופרידה
+    Description:
+    [EN] Free morning to explore Puerto Iguazu, buy souvenirs, or enjoy the accommodation facilities. At the agreed time, transfer to the airport.
+    [ES] Mañana libre para recorrer Puerto Iguazú, comprar recuerdos o disfrutar de las instalaciones del alojamiento. A la hora acordada, traslado al aeropuerto.
+    [HE] בוקר חופשי לחקור את פוארטו איגואסו, לקנות מזכרות או ליהנות ממתקני הלינה. בזמן שנקבע, העברה לשדה התעופה.
+
+
+SECTION: SERVICES
+================================================================================
+Section Title:
+[EN] Premium Services
+[ES] Servicios Premium
+[HE] שירותים פרימיום
+
+Subtitle:
+[EN] Personalized services crafted to match your unique travel style
+[ES] Todo incluido para tu tranquilidad
+[HE] הכל כלול לשקט הנפשי שלך
+
+Concierge:
+[EN] Personal concierge service
+[ES] Servicio de asistencia personal
+[HE] שירותי סיוע אישי
+
+Transfers:
+[EN] Transfers - To and from the airport at all destinations
+[ES] Traslados - Desde y hacia el aeropuerto en todos los destinos
+[HE] הסעות - מובילים ואל שדה התעופה בכל היעדים
+
+Accommodation:
+[EN] Accommodation - Carefully selected lodging
+[ES] Alojamiento - Alojamiento cuidadosamente seleccionado
+[HE] לינה - מקומות לינה שנבחרו בקפידה
+
+Guides:
+[EN] Expert Guides - Specialized bilingual local guides
+[ES] Guías Expertos - Guías locales bilingües especializados
+[HE] מדריכים מומחים - מדריכים מקומיים דו-לשוניים מומחים
+
+Gastronomy:
+[EN] Gastronomy - Authentic culinary experiences
+[ES] Gastronomía - Experiencias culinarias auténticas
+[HE] גסטרונומיה - חוויות קולינריות אותנטיות
+
+Support:
+[EN] 24/7 Support - Constant support throughout your trip
+[ES] Asistencia 24/7 - Soporte constante durante todo el viaje
+[HE] תמיכה 24/7 - תמיכה מתמדת לאורך כל הטיול
+
+Insurance:
+[EN] Travel Insurance - Full coverage included
+[ES] Seguro de Viaje - Cobertura completa incluida
+[HE] ביטוח נסיעות - כיסוי מלא כלול
+
+SECTION: ABOUT US
+================================================================================
+Title:
+[EN] Born and raised in Argentina
+[ES] Nacida y criada en Argentina
+[HE] נולדה וגדלה בארגנטינה
+
+Paragraph 1:
+[EN] Hola, I am Gloria Pais, the founder of Gates To Argentina, a boutique travel agency dedicated to creating personalized journeys across one of South America's most fascinating destinations.
+[ES] Hola, soy Gloria Pais, la fundadora de Gates To Argentina, una agencia de viajes boutique dedicada a crear viajes personalizados por uno de los destinos más fascinantes de Sudamérica.
+[HE] שלום, אני גלוריה פאיס, מייסדת Gates To Argentina, סוכנות תיירות בוטיק המוקדשת ליצירת מסעות מותאמים אישית באחד היעדים המרתקים ביותר בדרום אמריקה.
+
+Paragraph 2:
+[EN] My background in tourism is international.
+[ES] Mi experiencia en turismo es internacional.
+[HE] הרקע שלי בתיירות הוא בינלאומי.
+
+Paragraph 3:
+[EN] For more than fifteen years, I led tour operations in the Middle East through Gates to Israel, coordinating over 500 groups and developing extensive expertise in travel logistics, group management, and delivering high-quality service.
+[ES] Durante más de quince años, dirigí operaciones turísticas en Oriente Medio a través de Gates to Israel, coordinando más de 500 grupos y desarrollando una amplia experiencia en logística de viajes, gestión de grupos y prestación de servicios de alta calidad.
+[HE] במשך יותר מחמש עשרה שנה ניהלתי פעולות סיור במזרח התיכון דרך Gates to Israel, תיאמתי למעלה מ-500 קבוצות ופיתחתי מומחיות נרחבת בלוגיסטיקה תיירותית, ניהול קבוצות ומתן שירות באיכות גבוהה.
+
+Paragraph 4:
+[EN] Today, Gates To Argentina operates with offices in Argentina and Israel, offering trilingual service in Spanish, English, and Hebrew, along with 24/7 support to ensure that every journey runs smoothly from beginning to end.
+[ES] Hoy en día, Gates To Argentina opera con oficinas en Argentina e Israel, ofreciendo un servicio trilingüe en español, inglés y hebreo, junto con asistencia las 24 horas del día, los 7 días de la semana, para garantizar que cada viaje se desarrolle sin problemas de principio a fin.
+[HE] כיום, Gates To Argentina פועלת עם משרדים בארגנטינה ובישראל, ומציעה שירות תלת-לשוני בספרדית, אנגלית ועברית, יחד עם תמיכה 24/7 כדי להבטיח שכל מסע מתנהל בצורה חלקה מתחילתו ועד סופו.
+
+Paragraph 5:
+[EN] With the launch of Gates To Argentina, I brought this global experience back home, focusing on designing thoughtfully crafted itineraries that combine culture, adventure, and comfort while showcasing the authentic beauty and diversity of Argentina.
+[ES] Con el lanzamiento de Gates To Argentina, traje esta experiencia global a mi país, centrándome en el diseño de itinerarios cuidadosamente elaborados que combinan cultura, aventura y comodidad, al tiempo que muestran la auténtica belleza y diversidad de Argentina.
+[HE] עם השקת Gates To Argentina, הבאתי את הניסיון הגלובלי הזה חזרה הביתה, תוך התמקדות בעיצוב מסלולים מוקפדים המשלבים תרבות, הרפתקאות ונוחות, ומציגים את היופי והמגוון האותנטיים של ארגנטינה.
+
+Paragraph 6:
+[EN] Join me and my team and let us open the Gates to the very best of Argentina.
+[ES] Únete a mí y a mi equipo y déjanos abrir las puertas a lo mejor de Argentina.
+[HE] הצטרפו אליי ולצוות שלי ותנו לנו לפתוח את השערים למיטב ארגנטינה.
+
+Bullet Points:
+[EN] Languages: Spanish, English, Hebrew
+[ES] Idiomas: Español, Inglés, Hebreo
+[HE] שפות: ספרדית, אנגלית, עברית
+
+[EN] Experience: +15 Years in the tourism industry
+[ES] Experiencia: +15 Años en la industria turística
+[HE] ניסיון: +15 שנים בתעשיית התיירות
+
+[EN] Headquarters : Argentina, Israel
+[ES] Sedes : Argentina, Israel
+[HE] משרדים: ארגנטינה, ישראל
+
+Stats Labels:
+[EN] Years of experience | Groups served | International offices
+[ES] Años de experiencia | Grupos atendidos | Sedes internacionales
+[HE] שנות ניסיון | קבוצות שטופלו | משרדים בינלאומיים
+
+SECTION: TESTIMONIALS
+================================================================================
+Section Title:
+[EN] What our travelers say
+[ES] Lo que dicen nuestros viajeros
+[HE] מה המטיילים שלנו אומרים
+
+Testimonial 1:
+[EN] "An unforgettable experience. From Israel to the end of the world, everything perfectly organized." - Cohen Family, Tel Aviv
+[ES] "Una experiencia inolvidable. Desde Israel hasta el fin del mundo, todo perfectamente organizado." - Familia Cohen, Tel Aviv
+[HE] "חוויה בלתי נשכחת. מישראל ועד קצה העולם, הכל מאורגן בצורה מושלמת." - משפחת כהן, תל אביב
+
+Testimonial 2:
+[EN] "The best trip of our lives. Patagonia is magical and the team made everything impeccable." - Jerusalem Group, Haifa
+[ES] "El mejor viaje de nuestras vidas. Patagonia es mágica y el equipo hizo todo impecable." - Grupo Jerusalem, Haifa
+[HE] "הטיול הטוב ביותר בחיינו. פטגוניה היא קסומה והצוות עשה הכל בצורה מושלמת." - קבוצת ירושלים, חיפה
+
+Testimonial 3:
+[EN] "Excellent service in Hebrew, we felt at home in Argentina." - Levy Family, Beer Sheva
+[ES] "Excelente atención en hebreo, nos sentimos como en casa en Argentina." - Familia Levy, Beer Sheva
+[HE] "שירות מעולה בעברית, הרגשנו בבית בארגנטינה." - משפחת לוי, באר שבע
+
+SECTION: SOCIAL MEDIA
+================================================================================
+Title:
+[EN] Visit Us on Social Media
+[ES] Visítanos en Nuestras Redes Sociales
+[HE] בקרו אותנו ברשתות החברתיות
+
+Subtitle:
+[EN] ¡Follow us for exclusive tours, and unforgettable destinations!
+[ES] ¡Síguenos para tours exclusivos y destinos inolvidables!
+[HE] עקבו אחרינו לסיורים בלעדיים ויעדים בלתי נשכחים!
+
+SECTION: CONTACT
+================================================================================
+Title:
+[EN] Start Your Adventure
+[ES] Empezá tu Aventura
+[HE] התחל את ההרפתקה שלך
+
+Subtitle:
+[EN] Contact us and let's design your dream journey together
+[ES] Contactanos y diseñamos juntos tu viaje soñado
+[HE] צור איתנו קשר ונעצב יחד את טיול החלומות שלך
+
+Form Fields:
+[EN] Full name | Email | Phone (Optional) | Destination of interest (Optional) | Message
+[ES] Nombre completo | Correo electrónico | Teléfono (Opcional) | Destino de interés (Opcional) | Mensaje
+[HE] שם מלא | אימייל | טלפון (אופציונלי) | יעד מעניין (אופציונלי) | הודעה
+
+Submit Button:
+[EN] Send Inquiry
+[ES] Enviar Consulta
+[HE] שלח פנייה
+
+Success Message:
+[EN] Thank you! We will contact you soon.
+[ES] ¡Gracias! Te contactaremos pronto.
+[HE] תודה! ניצור איתך קשר בקרוב.
+
+Office Info:
+Argentina (Headquarters) - Tucumán, Argentina - +54 381 3598639
+Israel - Tel Aviv, Israel - +972546787997
+
+SECTION: FOOTER
+================================================================================
+Description:
+[EN] Specializing in customized programs with 24/7 bilingual support. We bring the warmth of Argentina to travelers.
+[ES] Especializados en programas personalizados con soporte bilingüe 24/7. Llevamos la calidez de Argentina a los viajeros.
+[HE] מתמחה בתוכניות מותאמות אישית עם תמיכה דו לשונית 24/7. אנו מביאים את החום של ארגנטינה למטיילים.
+
+Quick Links Label:
+[EN] Quick Links
+[ES] Links Rápidos
+[HE] קישורים מהירים
+
+Rights:
+[EN] All rights reserved.
+[ES] Todos los derechos reservados.
+[HE] כל הזכויות שמורות.

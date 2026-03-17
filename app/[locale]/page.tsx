@@ -6,6 +6,7 @@ import Services from '@/sections/Services';
 import About from '@/sections/About';
 import Contact from '@/sections/Contact';
 import { getModulesData } from '@/lib/modules';
+import Testimonials from '@/sections/Testimonials';
 
 type Props = {
   params: Promise<{ locale: string }>;
@@ -32,7 +33,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: meta.title,
       description: meta.description,
       url: `${SITE_URL}/${locale}`,
-      siteName: 'Gates to Argentina',
+      siteName: 'Gates To Argentina',
       locale: locale === 'he' ? 'he_IL' : locale === 'es' ? 'es_AR' : 'en_US',
       type: 'website',
       images: [
@@ -40,7 +41,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
           url: `${SITE_URL}/images/RecorriendoJujuy.jpg`,
           width: 1200,
           height: 630,
-          alt: 'Gates to Argentina - Custom Vacation Packages',
+          alt: 'Gates To Argentina - Custom Vacation Packages',
         },
       ],
     },
@@ -65,7 +66,7 @@ export default async function Home({ params }: Props) {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'TravelAgency',
-    name: 'Gates to Argentina',
+    name: 'Gates To Argentina',
     description: meta.description,
     url: `${SITE_URL}/${locale}`,
     logo: `${SITE_URL}/images/LOGO-DEFINITIVO.png`,
@@ -114,6 +115,7 @@ export default async function Home({ params }: Props) {
       <Services />
       <About />
       <Contact modules={modules} />
+      <Testimonials />
     </>
   );
 }
