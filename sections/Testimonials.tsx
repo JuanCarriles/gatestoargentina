@@ -62,7 +62,7 @@ export default function Testimonials() {
           <div className="flex items-center justify-center gap-4 mb-4">
             <div className="w-12 h-[2px] bg-[#7cb2dd]" />
             <span className="text-[#7cb2dd] text-sm font-semibold uppercase tracking-wider">
-              Testimonios
+              {t('testimonials.nav')}
             </span>
             <div className="w-12 h-[2px] bg-[#7cb2dd]" />
           </div>

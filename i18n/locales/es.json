@@ -9,7 +9,7 @@
   "hero": {
     "title": "Gates To Argentina",
     "subtitle": "Servicios Turísticos Personalizados",
-    "text": "Experiencias diseñadas a medida. Creamos viajes exclusivos y grupales para que descubras la auténtica esencia de Argentina.",
+    "text": "Experiencias diseñadas a medida. Creamos viajes exclusivos para que descubras la auténtica esencia de Argentina.",
     "cta": "Planificá tu Viaje"
   },
   "modules": {
@@ -241,6 +241,7 @@
     "offices": "Sedes internacionales"
   },
   "testimonials": {
+    "nav": "Testimonios",
     "title": "Lo que dicen nuestros viajeros",
     "testimonial1": "Me impresionó inmediatamente el profesionalismo y las habilidades de comunicación de la Sra. Pais... y su trato cálido y amable. Su respuesta y acciones posteriores en mi nombre superaron el excelente servicio que me brindó en 2019. Se encargó de todo, me mantuvo informado y me brindó muchas oportunidades para personalizar el viaje según mis preferencias. Las pocas cosas que pedí fueron consideradas prioridades y todo lo demás fue perfecto. Me complace brindar una recomendación incondicional y entusiasta para la Sra. Gloria Pais y Gates to Argentina.",
     "author1": "Viajero Satisfecho"
