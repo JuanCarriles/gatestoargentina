@@ -861,9 +861,9 @@ Insurance:
 SECTION: ABOUT US
 ================================================================================
 Title:
-[EN] Born and raised in Argentina
-[ES] Nacida y criada en Argentina
-[HE] נולדה וגדלה בארגנטינה
+[EN] Born and raised in Argentina. Backed by Global Expertise.
+[ES] Nacida y criada en Argentina. Respaldada por experiencia global.
+[HE] נולדה וגדלה בארגנטינה. מגובה במומחיות גלובלית.
 
 Paragraph 1:
 [EN] Hola, I am Gloria Pais, the founder of Gates To Argentina, a boutique travel agency dedicated to creating personalized journeys across one of South America's most fascinating destinations.
@@ -921,19 +921,9 @@ Section Title:
 [HE] מה המטיילים שלנו אומרים
 
 Testimonial 1:
-[EN] "An unforgettable experience. From Israel to the end of the world, everything perfectly organized." - Cohen Family, Tel Aviv
-[ES] "Una experiencia inolvidable. Desde Israel hasta el fin del mundo, todo perfectamente organizado." - Familia Cohen, Tel Aviv
-[HE] "חוויה בלתי נשכחת. מישראל ועד קצה העולם, הכל מאורגן בצורה מושלמת." - משפחת כהן, תל אביב
-
-Testimonial 2:
-[EN] "The best trip of our lives. Patagonia is magical and the team made everything impeccable." - Jerusalem Group, Haifa
-[ES] "El mejor viaje de nuestras vidas. Patagonia es mágica y el equipo hizo todo impecable." - Grupo Jerusalem, Haifa
-[HE] "הטיול הטוב ביותר בחיינו. פטגוניה היא קסומה והצוות עשה הכל בצורה מושלמת." - קבוצת ירושלים, חיפה
-
-Testimonial 3:
-[EN] "Excellent service in Hebrew, we felt at home in Argentina." - Levy Family, Beer Sheva
-[ES] "Excelente atención en hebreo, nos sentimos como en casa en Argentina." - Familia Levy, Beer Sheva
-[HE] "שירות מעולה בעברית, הרגשנו בבית בארגנטינה." - משפחת לוי, באר שבע
+[EN] "I was immediately impressed by Ms. Pais’ professionalism and communication skills... and her warm friendly manner. Her response and subsequent actions on my behalf exceeded the excellent service she provided to me in 2019. She took care of everything and kept me informed and provided many opportunities to customize the tour to my preferences. The few things I requested were regarded as priorities and everything else was perfect. I am happy to provide an unqualified and enthusiastic recommendation for Ms. Gloria Pais and Gates to Argentina." - Satisfied Traveler
+[ES] "Me impresionó inmediatamente el profesionalismo y las habilidades de comunicación de la Sra. Pais... y su trato cálido y amable. Su respuesta y acciones posteriores en mi nombre superaron el excelente servicio que me brindó en 2019. Se encargó de todo, me mantuvo informado y me brindó muchas oportunidades para personalizar el viaje según mis preferencias. Las pocas cosas que pedí fueron consideradas prioridades y todo lo demás fue perfecto. Me complace brindar una recomendación incondicional y entusiasta para la Sra. Gloria Pais y Gates to Argentina." - Viajero Satisfecho
+[HE] "מיד התרשמתי מהמקצועיות ומכישורי התקשורת של גב' פייס... ומהיחס החם והידידותי שלה. התגובה שלה והפעולות שלאחר מכן בשמי עלו על השירות המצוין שהיא העניקה לי בשנת 2019. היא דאגה להכל, שמרה אותי מעודכן וסיפקה הזדמנויות רבות להתאים אישית את הטיול להעדפותיי. הדברים המעטים שביקשתי נחשבו לעדיפויות וכל השאר היה מושלם. אני שמח לספק המלצה חמה ובלתי מסויגת לגב' גלוריה פייס ול-Gates to Argentina." - מטייל מרוצה
 
 SECTION: SOCIAL MEDIA
 ================================================================================

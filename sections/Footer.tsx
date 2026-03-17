@@ -155,7 +155,7 @@ export default function Footer({ modules }: FooterProps) {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
                     <div className="flex flex-col md:flex-row justify-between items-center gap-4">
                         <p className="text-white/50 text-sm" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.5)' }}>
-                            Gates To Argentina
+                            © 2026 Gates to Argentina. {t('footer.rights')}
                         </p>
                     </div>
                 </div>

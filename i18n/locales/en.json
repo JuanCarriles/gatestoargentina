@@ -9,7 +9,7 @@
   "hero": {
     "title": "Gates To Argentina",
     "subtitle": "Personalized Tourism Services",
-    "text": "Custom designed experiences. We create exclusive and group trips so you can discover the authentic essence of Argentina.",
+    "text": "Custom designed experiences. We create exclusive trips so you can discover the authentic essence of Argentina.",
     "cta": "Plan Your Trip"
   },
   "modules": {
@@ -31,7 +31,7 @@
     "loading": "Loading...",
     "backToHome": "Home",
     "notFound": "Module not found",
-    "noItineraryMessage": "If you would like the full itinerary, please contact our team and we will send you a personalized one.",
+    "noItineraryMessage": "If you would like a full itinerary, please contact our team and we will send you a personalized one.",
     "customizableTitle": "Fully Customizable Experience",
     "customizableMessage": "This itinerary is a suggested experience. We can coordinate with you to modify the trip according to your needs and desires. We can offer additional services, duration adjustments, or different hotel categories.",
     "contactViaGmail": "Email",
@@ -241,6 +241,7 @@
     "offices": "International offices"
   },
   "testimonials": {
+    "nav": "Testimonies",
     "title": "What our travelers say",
     "testimonial1": "I was immediately impressed by Ms. Pais’ professionalism and communication skills... and her warm friendly manner. Her response and subsequent actions on my behalf exceeded the excellent service she provided to me in 2019. She took care of everything and kept me informed and provided many opportunities to customize the tour to my preferences. The few things I requested were regarded as priorities and everything else was perfect. I am happy to provide an unqualified and enthusiastic recommendation for Ms. Gloria Pais and Gates to Argentina.",
     "author1": "Satisfied Traveler"
