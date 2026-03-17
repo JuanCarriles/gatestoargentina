@@ -94,17 +94,8 @@ export default function Hero() {
                 </div>
             </div>
 
-            <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
-                <a
-                    href="#modules"
-                    className="flex flex-col items-center text-white/60 hover:text-[#7cb2dd] transition-colors duration-300"
-                >
-                    <span className="text-sm mb-2 hero-text-shadow">{t('nav.destinations')}</span>
-                    <ChevronDown className="w-6 h-6 hero-text-shadow" />
-                </a>
-            </div>
 
-            <div className="absolute top-1/4 left-10 w-2 h-2 bg-[#7cb2dd] rounded-full opacity-60" />
+
             <div className="absolute top-1/3 right-20 w-3 h-3 bg-[#7cb2dd] rounded-full opacity-40" />
             <div className="absolute bottom-1/4 left-1/4 w-2 h-2 bg-white rounded-full opacity-30" />
         </section>

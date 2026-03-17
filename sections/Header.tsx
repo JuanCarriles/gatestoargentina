@@ -66,7 +66,7 @@ export default function Header() {
                     <Link href={`/${locale}#home`} className="flex items-center gap-3">
                         <Image
                             src="/images/LOGO-DEFINITIVO.png"
-                            alt="Gates to Argentina - Custom vacation packages and luxury tours in Argentina"
+                            alt="Gates To Argentina - Custom vacation packages and luxury tours in Argentina"
                             width={180}
                             height={48}
                             className="h-12 w-auto object-contain"

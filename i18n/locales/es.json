@@ -7,13 +7,13 @@
     "contact": "Contacto"
   },
   "hero": {
-    "title": "Gates to Argentina",
+    "title": "Gates To Argentina",
     "subtitle": "Servicios Turísticos Personalizados",
     "text": "Experiencias diseñadas a medida. Creamos viajes exclusivos y grupales para que descubras la auténtica esencia de Argentina.",
     "cta": "Planificá tu Viaje"
   },
   "modules": {
-    "title": "Nuestras perlas de Viaje",
+    "title": "Nuestras Perlas de Viaje",
     "subtitle": "Experiencias cuidadosamente diseñadas para viajes personalizados.",
     "cta": "Ver Detalles",
     "days": "Días",
@@ -22,6 +22,7 @@
     "downloadItinerary": "Descargar Itinerario Completo",
     "mainAttractions": "Principales Atracciones",
     "dailyItinerary": "Ejemplo de itinerario",
+    "travelLocation": "Destino Incluido",
     "travelLocations": "Destinos Incluidos",
     "tripOverview": "Resumen del Viaje",
     "whatsIncluded": "Qué Incluye",
@@ -225,12 +226,12 @@
     "insuranceDesc": "Cobertura completa incluida"
   },
   "about": {
-    "title": "Nacida y criada en Argentina",
-    "description1": "Hola, soy Gloria Pais, la fundadora de Gates to Argentina, una agencia de viajes boutique dedicada a crear viajes personalizados por uno de los destinos más fascinantes de Sudamérica.",
+    "title": "Nacida y criada en Argentina. Respaldada por experiencia global.",
+    "description1": "Hola, soy Gloria Pais, la fundadora de Gates To Argentina, una agencia de viajes boutique dedicada a crear viajes personalizados por uno de los destinos más fascinantes de Sudamérica.",
     "description2": "Mi experiencia en turismo es internacional.",
     "description3": "Durante más de quince años, dirigí operaciones turísticas en Oriente Medio a través de Gates to Israel, coordinando más de 500 grupos y desarrollando una amplia experiencia en logística de viajes, gestión de grupos y prestación de servicios de alta calidad.",
-    "description4": "Hoy en día, Gates to Argentina opera con oficinas en Argentina e Israel, ofreciendo un servicio trilingüe en español, inglés y hebreo, junto con asistencia las 24 horas del día, los 7 días de la semana, para garantizar que cada viaje se desarrolle sin problemas de principio a fin.",
-    "description5": "Con el lanzamiento de Gates to Argentina, traje esta experiencia global a mi país, centrándome en el diseño de itinerarios cuidadosamente elaborados que combinan cultura, aventura y comodidad, al tiempo que muestran la auténtica belleza y diversidad de Argentina.",
+    "description4": "Hoy en día, Gates To Argentina opera con oficinas en Argentina e Israel, ofreciendo un servicio trilingüe en español, inglés y hebreo, junto con asistencia las 24 horas del día, los 7 días de la semana, para garantizar que cada viaje se desarrolle sin problemas de principio a fin.",
+    "description5": "Con el lanzamiento de Gates To Argentina, traje esta experiencia global a mi país, centrándome en el diseño de itinerarios cuidadosamente elaborados que combinan cultura, aventura y comodidad, al tiempo que muestran la auténtica belleza y diversidad de Argentina.",
     "description6": "Únete a mí y a mi equipo y déjanos abrir las puertas a lo mejor de Argentina.",
     "list1": "Idiomas: Español, Inglés, Hebreo",
     "list2": "Experiencia: +15 Años en la industria turística",
@@ -241,12 +242,8 @@
   },
   "testimonials": {
     "title": "Lo que dicen nuestros viajeros",
-    "testimonial1": "Una experiencia inolvidable. Desde Israel hasta el fin del mundo, todo perfectamente organizado.",
-    "author1": "Familia Cohen, Tel Aviv",
-    "testimonial2": "El mejor viaje de nuestras vidas. Patagonia es mágica y el equipo hizo todo impecable.",
-    "author2": "Grupo Jerusalem, Haifa",
-    "testimonial3": "Excelente atención en hebreo, nos sentimos como en casa en Argentina.",
-    "author3": "Familia Levy, Beer Sheva"
+    "testimonial1": "Me impresionó inmediatamente el profesionalismo y las habilidades de comunicación de la Sra. Pais... y su trato cálido y amable. Su respuesta y acciones posteriores en mi nombre superaron el excelente servicio que me brindó en 2019. Se encargó de todo, me mantuvo informado y me brindó muchas oportunidades para personalizar el viaje según mis preferencias. Las pocas cosas que pedí fueron consideradas prioridades y todo lo demás fue perfecto. Me complace brindar una recomendación incondicional y entusiasta para la Sra. Gloria Pais y Gates to Argentina.",
+    "author1": "Viajero Satisfecho"
   },
   "socialMedia": {
     "title": "Visítanos en Nuestras Redes Sociales",
@@ -280,7 +277,8 @@
     }
   },
   "footer": {
-    "description": "Especializados en programas personalizados con soporte bilingüe 24/7. Llevamos la calidez de Argentina a los viajeros.",
+    "description1": "Especializados en programas personalizados con soporte bilingüe 24/7.",
+    "description2": "Llevamos la calidez de Argentina a los viajeros.",
     "quickLinks": "Links Rápidos",
     "destinations": "Destinos",
     "contact": "Contacto",

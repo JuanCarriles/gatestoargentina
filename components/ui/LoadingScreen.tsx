@@ -15,7 +15,7 @@ export default function LoadingScreen({ fullScreen = false }: LoadingScreenProps
                 <div className="w-24 h-24 rounded-full bg-white/80 backdrop-blur-sm shadow-lg flex items-center justify-center overflow-hidden animate-logo-breathe">
                     <Image
                         src="/images/gates-to-arg-LOGO-SIMPLIFICADO.png"
-                        alt="Gates to Argentina"
+                        alt="Gates To Argentina"
                         width={64}
                         height={64}
                         className="w-16 h-16 object-contain"

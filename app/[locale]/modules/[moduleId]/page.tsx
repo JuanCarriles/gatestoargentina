@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
                 title: meta.title,
                 description: meta.description,
                 url: `${SITE_URL}/${locale}/modules/${moduleId}`,
-                siteName: 'Gates to Argentina',
+                siteName: 'Gates To Argentina',
                 locale: locale === 'he' ? 'he_IL' : locale === 'es' ? 'es_AR' : 'en_US',
                 type: 'website',
             },
@@ -55,7 +55,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         return { title: 'Module Not Found' };
     }
 
-    const title = `${module.name[lang]} – Gates to Argentina`;
+    const title = `${module.name[lang]} – Gates To Argentina`;
     const description = module.summary[lang];
 
     return {
@@ -93,7 +93,7 @@ export default async function ModuleDetailPage({ params }: Props) {
         touristType: 'Group',
         provider: {
             '@type': 'TravelAgency',
-            name: 'Gates to Argentina',
+            name: 'Gates To Argentina',
             url: SITE_URL,
         },
         ...(module.itinerary && {

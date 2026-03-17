@@ -76,7 +76,7 @@ export default function Modules({ modules }: ModulesProps) {
                                 <div className="absolute bottom-4 left-4 right-4 text-white">
                                     <div className="flex items-center gap-1 text-sm opacity-90">
                                         <MapPin className="w-4 h-4" />
-                                        <span>{module.locations.length} {t('modules.travelLocations')}</span>
+                                        <span>{module.locations.length} {t(module.locations.length === 1 ? 'modules.travelLocation' : 'modules.travelLocations')}</span>
                                     </div>
                                 </div>
                             </div>
